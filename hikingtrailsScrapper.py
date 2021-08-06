@@ -14,8 +14,11 @@ driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
 driver.get('https://www.alltrails.com/germany/bavaria');
 time.sleep(20)
 
+time.sleep(20)
+
 # click the button exactly 8 times
-for n in range(526):
+# for n in range(526):
+for n in range(57):
     driver.find_element_by_xpath('/html/body/div[3]/div[3]/div/div[3]/div[2]/div[2]/div/button').click()
     s = randint(1, 10)
     time.sleep(s)
@@ -33,5 +36,5 @@ for a in soup.findAll('div', attrs={
 
 driver.quit()
 
-df = pd.DataFrame({'Trail': hikes, 'City': cities})
-df.to_csv('hikes.csv', index=False, encoding='utf-8')
+df = pd.DataFrame({'trail': hikes, 'city': cities})
+df.to_csv('hikes_v2.csv', index=False, encoding='utf-8')
