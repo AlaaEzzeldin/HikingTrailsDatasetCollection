@@ -37,4 +37,4 @@ for a in soup.findAll('div', attrs={
 driver.quit()
 
 df = pd.DataFrame({'trail': hikes, 'city': cities})
-df.to_csv('hikes_v2.csv', index=False, encoding='utf-8')
+df.to_csv('hikes_v2_Rate4AND5.csv', index=False, encoding='utf-8')
