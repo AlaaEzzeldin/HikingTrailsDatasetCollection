@@ -1,4 +1,3 @@
-id,trail,city,latitude,longitude
 1,Zugspitze via Höllental,"Grainau, Bavaria, Germany",47.449497,11.007059
 2,Herzogstand and Heimgarten,"Kochel , Bavaria, Germany",47.653932,11.366395
 3,Zugspitze from Garmisch Partenkirchen Via Ferrata,Naturschutzgebiet Schachen and Reintal,47.412492,11.103538
@@ -13,561 +12,561 @@ id,trail,city,latitude,longitude
 12,Von Tegernsee zum Berggasthof Neureuth über Bayernweg,"Tegernsee, Bavaria, Germany",47.714366,11.756882
 13,Kampenwand und Sulten ab Aigen,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
 14,Schleierfälle Loop,"Wildsteig, Bavaria, Germany",47.70202,10.93611
-16,HöllbachgsprengFalkensteinRunde,Bavarian Forest National Park,29.297308,110.43844
-17,Brünnstein from Rosengasse,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
-18,To the Kneifelspitze from Maria Gern,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-19,Rund um den Brombachsee,"Pfofeld, Bavaria, Germany",49.103343,10.837124
-20,Von Kehlheim durch die Weltenburger Enge zum Tatzelwurm,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
-21,Hölzlmühlweg,"Hirschau, Bavaria, Germany",49.545675,11.94308
-22,Von Tegernsee auf die Kreuzbergalm,"Tegernsee, Bavaria, Germany",47.714366,11.756882
-23,AltmühltalPanoramaweg Etappe : Riedenburg nach Kelheim,Naturpark Altmühltal,51.163154,14.455795
-24,Ramsauer Malerweg to Hintersee,"Ramsau b. Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-25,Die Watzmanntour: Vom Königssee zum Watzmannhaus,Berchtesgaden National Park,22.890827,88.425677
-26,Tegelberg (Abstieg zur Talstation),"Schwangau, Bavaria, Germany",47.578544,10.734986
-27,Vom Tatzelwurm zum Brünnsteingipfel,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
-28,Branderschrofen Via Ferrata,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-29,Wanderung durch die Wimbachklamm,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-30,Teufelstättkopf and Pürschling,Naturpark Ammergauer Alpen,51.163154,14.455795
-31,Ettaler Mandl circular route from Oberammergau,"Oberammergau, Bavaria, Germany",47.596055,11.067191
-32,To the Hochgern summit via Roßkopf,"Marquartstein, Bavaria, Germany",47.760283,12.460637
-33,Grenzwanderung am Fellhorngrat,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-34,Magic Forest Educational Trail,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-35,Rubihorn Klettersteig,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-36,Lusen Rundweg ab Waldhäuser,Bavarian Forest National Park,29.297308,110.43844
-37,Wankbahn Talstation zur Wankbahn Mittelstation,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-38,Breitenstein und Bockstein über Bucheralm,"Fischbachau, Bavaria, Germany",47.718903,11.949842
-39,Garmisch Partenkirchen and Gschwandtner Bauer Pfeifferalm Loop,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-40,Rund um den Hintersee,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-41,Wertach Rundweg,"Bobingen, Bavaria, Germany",48.27077,10.833833
-42,Bamberg and Altenburg,"Bamberg, Bavaria, Germany",49.895431,10.897137
-43,Von der LaberBergbahn nach Oberammergau,"Oberammergau, Bavaria, Germany",47.596055,11.067191
-44,Rund um die Herreninsel über Otto's und Paul's Ruh',Herrenchiemsee,47.86761,12.39599
-45,Eckbauer Partnachklamm ab Talstation Eckbauerbahn,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-46,Ulm Blautopf,"NeuUlm, Bavaria, Germany",48.3925,9.9938
-47,Püttlachtal Himmelsleiter,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-48,Von Weiler zum Naturschutzgebiet Trogener Moore,"Weiler Simmerberg, Bavaria, Germany",47.582331,9.911846
-49,Skulpturenweg Maierhofen,"Maierhöfen, Bavaria, Germany",47.67423,16.22904
-50,Maisinger See,"Feldafing, Bavaria, Germany",47.944209,11.293705
-51,Ehrenbachtalweg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-52,Tegernsee Hut and Röhrlmoos Alm,"Kreuth, Bavaria, Germany",46.8,14.18333
-53,Durch das Oytal,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
-54,Altmühltal Rundweg Nr.,Naturpark Altmühltal,51.163154,14.455795
-55,On the Isar from Landshut to Ellermühle,"Landshut, Bavaria, Germany",48.533862,12.148372
-56,Von Immenstadt nach Bolgenach,Naturpark Nagelfluhkette ,51.163154,14.455795
-57,Rundwanderweg Kleiner Arbersee,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-58,Premiumwanderweg: Alpenfreiheit,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
-59,Von Lindenhof zum Mühlnickelweiher durch das NSG Waldnaabtal,Naturschutzgebiet Waldnaabtal,49.846537,12.199169
-60,Spitzingsee and Valeppalmen Loop,"Schliersee, Bavaria, Germany",47.736714,11.857395
-61,WiesenPanoramaWeg,"Nordhalben, Bavaria, Germany",50.37496,11.510441
-62,Nebelhorn via Oytal,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
-63,Eistobel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
-64,Riedholzer Kugel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
-65,Scheidegg zum Pfänder,"Scheidegg, Bavaria, Germany",47.584069,9.854134
-66,Zum Brünnstein ab Kreit,"Kiefersfelden, Bavaria, Germany",47.612734,12.190504
-67,Rundwanderweg Spalt Hofstetten,"Spalt, Bavaria, Germany",49.176995,10.923938
-68,Kammwanderung Schellschlicht,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-69,Grüntenwanderung,"Rettenberg, Bavaria, Germany",47.574688,10.293852
-70,Eistobel: Oberer Wasserfall am Eissteg,"Grünenbach, Bavaria, Germany",47.629616,10.010093
-71,Benediktusweg Berching,"Berching, Bavaria, Germany",49.107241,11.441128
-72,Grünstein Via Ferrata from Konigssee,"Schönau a. Königssee, Bavaria, Germany",47.6023,12.98699
-73,Aueralm and Zwergelberg,"Bad Wiessee, Bavaria, Germany",47.716423,11.722012
-74,Tegernseer Höhenweg over the Neureuther summit from St. Quirin,"Gmund am Tegernsee, Bavaria, Germany",47.750362,11.737976
-75,Unfindener Waldrunde über Königsberg in Bayern,Haßberge Nature Park,44.34314,-69.65125
-76,Notkarspitz über Gießenbach,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-77,Small Johannisberg round,"Freudenberg, Bavaria, Germany",50.899784,7.874453
-78,Grosser Traithen,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
-79,Schnippenkopf,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-80,Brandorfer Forest Loop,Haßberge Nature Park,44.34314,-69.65125
-81,Schärtenspitze Via Ferrata,Berchtesgaden National Park,22.890827,88.425677
-82,Zugspitze Gipfeltour,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-83,Hörnle Loop,Naturpark Ammergauer Alpen,51.163154,14.455795
-84,Schildenstein Rundweg,"Kreuth, Bavaria, Germany",46.8,14.18333
-85,Helmer Hütte to Herzogstand Mountain Guest House,"Kochel , Bavaria, Germany",47.653932,11.366395
-86,Weltenburger Wanderwege: I Donauroute,Naturpark Altmühltal,51.163154,14.455795
-87,Vom Pflegersee zum Feldernkopf über die Enningalm,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-88,Brecherspitz,"Schliersee, Bavaria, Germany",47.736714,11.857395
-89,Illschwang zum Osterloch,"Illschwang, Bavaria, Germany",49.449015,11.684887
-90,Nussdorf auf den Heuberg,"Nußdorf am Inn, Bavaria, Germany",47.742464,12.157573
-91,HinterseeZauberwaldRamsau,Berchtesgaden National Park,22.890827,88.425677
-92,"Ohlstadt zur Veste Schaumburg, dem Großen Illing und zur Kaseralm","Ohlstadt, Bavaria, Germany",47.633757,11.233078
-93,Goldsteig Stage : Marktredwitz to Friedenfels,Naturpark Steinwald,51.163154,14.455795
-94,Marathon Füssen,"Füssen, Bavaria, Germany",47.568013,10.693711
-95,Goldsteig Northern Route Stage : Eck to Großer Arber,Bavarian Forest Nature Park,40.755325,-89.57569
-96,Hörndlwand Old Schmidkunzweg,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-97,Weissbach Gorge,"Schneizlreuth, Bavaria, Germany",47.690013,12.801937
-98,Via Alpina Purple Trail A : Tutzinger Hütte Herzogstand,"Benediktbeuern, Bavaria, Germany",47.705086,11.413774
-99,"Würzburg, Marienberg, and Steinbachtal","Würzburg, Bavaria, Germany",49.784984,9.941828
-100,Von Rottach auf den Falkenstein,"Rettenberg, Bavaria, Germany",47.574688,10.293852
-101,Karwendel to Mittenwald,"Mittenwald, Bavaria, Germany",47.44048,11.263952
-102,Riedenburg loop,Naturpark Altmühltal,51.163154,14.455795
-103,Frankenweg von Heiligenstadt nach Behringersmühle über dem Streitberg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-104,Kloster Andechs Runde,"Andechs, Bavaria, Germany",47.968835,11.18182
-105,Premiumwanderweg: Klausenbachklamm,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
-106,"Hundham, Sternplatte und Schwarzenberg Rundweg","Fischbachau, Bavaria, Germany",47.718903,11.949842
-107,Rappenseekopf über Rappenseehütte und schwarze Hütte,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
-108,Auf den Frieder,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-109,Gipfelwanderung zum Seekarkreuz,"Lenggries, Bavaria, Germany",47.682374,11.576555
-110,Notkarspitze über Ochsensitz und Ziegelspitz,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-111,Frankenweg von Schesslitz nach Heiligenstadt via Glechburg,"Scheßlitz, Bavaria, Germany",49.974567,11.029575
-112,Lohberghütte zum Schwarzeck,"Lohberg, Bavaria, Germany",54.19925,19.70315
-113,Große Riffelwandspitze (Abstieg),"Grainau, Bavaria, Germany",47.449497,11.007059
-114,Große Dillbergrunde,"Postbauer Heng, Bavaria, Germany",49.302167,11.358727
-115,Imberg Hochwies Alpe Glutschwanden,Naturpark Nagelfluhkette ,51.163154,14.455795
-116,Von Bad Brückenau auf den Dreistelz,Naturpark Bayerische Rhön ,50.244892,10.460734
-117,Maria im Weingarten and Kammerberg Loop,"Volkach, Bavaria, Germany",49.861193,10.233518
-118,From Garmisch Partenkirchen to the Kreuzeckhaus,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-119,Großer OsterseeRundweg,"Iffeldorf, Bavaria, Germany",47.774382,11.322193
-120,Zum Osser über den Grenzpfad,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-121,HochgratRunde,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
-122,Frankenweg von Behringersmühle nach Egloffstein über Kirchenbirkig,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-123,Jenner Schönau am Königssee,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
-124,Zur Hochries,"Samerberg, Bavaria, Germany",47.781171,12.212884
-125,Kindinger Burgenweg,Naturpark Altmühltal,51.163154,14.455795
-126,Hiking in the ZugspitzLand Grainau Zum Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
-127,MeterHöhenweg in der Hersbrucker Schweiz,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
-128,Westallgäuer Wasserwege,"Weiler Simmerberg, Bavaria, Germany",47.582331,9.911846
-129,Through theMärchenwald to Butzn Wirt,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
-130,Hechtsee Thiersee Gießenbachklamm,"Kiefersfelden, Bavaria, Germany",47.612734,12.190504
-131,Kampenwand via ferrata,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
-132,Goldsteig Northern Route Stage : Herzogau to Furth im Wald,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-133,Perlacher Forst bei Taufkirchen,"Taufkirchen, Bavaria, Germany",48.049878,11.604593
-134,Königsbachalm über die Wasserfallalm,Berchtesgaden National Park,22.890827,88.425677
-135,Goldsteig Zuweg Nr. : BodenmaisKleiner Arber,Bavarian Forest Nature Park,40.755325,-89.57569
-136,AltmühltalPanoramaweg Etappe : Beilngries nach Dietfurt,Naturpark Altmühltal,51.163154,14.455795
-137,"Wasserspitz, Rinnenspitz, und Bodenschneid","Schliersee, Bavaria, Germany",47.736714,11.857395
-138,Hochgrat Panoramarunde,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
-139,Hochplatte Rundweg,"Marquartstein, Bavaria, Germany",47.760283,12.460637
-140,Sonntagshorn and Kraxenbach Valley,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-141,Paradiestal,"Stadelhofen, Bavaria, Germany",49.990595,11.162357
-142,SeenRundwanderung bei Stephanskirchen,Naturschutzgebiet EggstättHemhofer Seenplatte,53.438594,13.189055
-143,AltmühltalPanoramaweg Etappe : Dietfurt nach Riedenburg,Naturpark Altmühltal,51.163154,14.455795
-144,On the Danube in Lauingen,"Lauingen, Bavaria, Germany",48.573163,10.426974
-145,To the Hainburg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-146,From Unterau to Königssee,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-147,Unterbrunn ins Würmtal und Königswieser Forst,"Gauting, Bavaria, Germany",48.070922,11.37745
-148,Premiumwanderweg: Kuppenweg,UNESCOBiosphärenreservat Rhön,45.283941,4.583177
-149,Spitzing Lake to the Rotwand Hut,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
-150,MeterHöhenweg Pommelsbrunn,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-151,NeuhausenNymphenburg,Schlosspark Nymphenburg,50.555543,9.673889
-152,Stiealm ab Untermberg,"Wackersberg, Bavaria, Germany",47.735827,11.54642
-153,Schinder,"Rottach Egern, Bavaria, Germany",47.686685,11.767553
-154,Obermaiselstein Grasgeheren,"Obermaiselstein, Bavaria, Germany",47.44725,10.237248
-155,Auf den Richtstrichkopf,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
-156,Johannesberg Hahnenkamm,Spessart Nature Park,44.34314,-69.65125
-157,Naturpfad Ahornreitweg,"Schwangau, Bavaria, Germany",47.578544,10.734986
-158,Schwarzenberg Loop,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
-159,Vom Achenpass auf die Hochalm,"Lenggries, Bavaria, Germany",47.682374,11.576555
-160,Fichtelsee Seehaus,"Fichtelberg, Bavaria, Germany",49.999955,11.854175
-161,Mangfalltal und Valley Klosterstüberl Wanderung,"Valley, Bavaria, Germany",32.818377,-85.188208
-162,Christertshofen Rennertshofen (Kreis NeuUlm Tour Nr. ),"Buch, Bavaria, Germany",48.11667,15.03333
-163,Vom Mittag ins Steigbachtal über Steineberg,Naturpark Nagelfluhkette ,51.163154,14.455795
-164,Goldsteig Northern Route Stage : Furth im Wald to Schönbuchen,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-165,Premiumwanderweg: Basaltweg,Naturpark Bayerische Rhön ,50.244892,10.460734
-166,Rund um Leutenbach,Ehrenbürg (Walberla),52.745695,8.708627
-167,Frankenweg von Wallenfels nach Kronach via Radspitze,Naturpark Frankenwald,51.163154,14.455795
-168,Kötztinger Hütte,"Arrach, Bavaria, Germany",49.188186,12.993424
-169,Goldsteig Northern Route Stage : Lusen to Mauth,Bavarian Forest National Park,29.297308,110.43844
-170,Kleiner Osser and Grosser Osser,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-171,Frankenweg von Kulmbach nach Oberlangheim via Isling,"Kulmbach, Bavaria, Germany",50.104806,11.448023
-172,Oberau zu Krottenkopfhütte und Abstieg über Esterbergalm und Farchant,"Farchant, Bavaria, Germany",47.529453,11.111773
-173,Wanderung zur Krokusblüte am Hündle,Naturpark Nagelfluhkette ,51.163154,14.455795
-174,Goldsteig Northern Route Stage : Großer Arber to Bayerisch Eisenstein,Bavarian Forest Nature Park,40.755325,-89.57569
-175,Houbirg,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
-176,Frankenweg von Kronach nach Kulmbach,Naturpark Frankenwald,51.163154,14.455795
-177,Frankenweg von Naila nach Wallenfels über den Döbraberg,Naturpark Frankenwald,51.163154,14.455795
-178,Natural Spectacle Kreuth The Water Adventure Trail along the Weißach,"Kreuth, Bavaria, Germany",46.8,14.18333
-179,Rund ums Walberla,"Wiesenthau, Bavaria, Germany",49.713364,11.136582
-180,Gipfelwanderung Hoher Göll ab Ofnerboden,Berchtesgaden National Park,22.890827,88.425677
-181,Reisberg ab Leutenbach,"Leutenbach, Bavaria, Germany",48.887005,9.39052
-182,Walchensee Gorge,"Kochel , Bavaria, Germany",47.653932,11.366395
-183,Naturkundlicher Rundwanderweg Plech,"Plech, Bavaria, Germany",49.651491,11.469153
-184,Premiumwanderweg: Hüttentour,Naturpark Bayerische Rhön ,50.244892,10.460734
-185,Unteremmendorf durch den Wald,"Kinding, Bavaria, Germany",4.91667,10.73333
-186,Goldsteig Stage : Tännesberg to Oberviechtach,Naturpark Oberpfälzer Wald,48.780925,13.80375
-187,Oberer Horizontalsteig zwischen Lusen und Rachel,Bavarian Forest National Park,29.297308,110.43844
-188,"Luisenburg, Haberstein, Felsenlabyrinth",Naturpark Fichtelgebirge,49.9879,11.979943
-189,Brünstelkopf trail,Naturschutzgebiet Ammergebirge,47.602072,10.812889
-190,From Weitsee to Stuhlkopf via Gräbenalm,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-191,Entlang der Donau in NSG Weltenburger Enge,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
-192,Fischhaus Saldenburg Obere Ilz,"Ruderting, Bavaria, Germany",48.652605,13.413049
-193,"Burgruine Neideck, Brunhildenstein und Trainmeuseler Brunnen","Wiesenttal, Bavaria, Germany",49.801809,11.262179
-194,Goldsteig: From Grandsberg to Hirschenstein,Bavarian Forest Nature Park,40.755325,-89.57569
-195,Rund um den Hollenberg,"Pottenstein, Bavaria, Germany",49.773575,11.406943
-196,Friesenhausen Schwedenschanze,Haßberge Nature Park,44.34314,-69.65125
-197,Wendelstein Expeditions Geology Loop,"Bayrischzell, Bavaria, Germany",47.662011,11.985455
-198,Bahntrassenradweg AmbergSchmidmühlen,Naturpark Hirschwald,51.163154,14.455795
-199,Rabenberg with Observation Tower,Naturpark Nördlicher Oberpfälzer Wald,48.780925,13.80375
-200,AchenkirchWildbad Kreuth,"Kreuth, Bavaria, Germany",46.8,14.18333
-201,Von der Burg Hohenberg zur Eger,Naturpark Fichtelgebirge,49.9879,11.979943
-202,Pottenstein () bis Teufelshöhle,"Pottenstein, Bavaria, Germany",49.773575,11.406943
-203,"Steinkartrundweg: Wanderweg , A","Bad Griesbach, Bavaria, Germany",48.4501,13.194792
-204,Around the Ainringer Moor,"Ainring, Bavaria, Germany",47.817757,12.954758
-205,Höhenglücksteig (Teil ),"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
-206,Schermshöhe Eibgrat Reuthof,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-207,Landsberg Wanderung,"Landsberg am Lech, Bavaria, Germany",48.051822,10.866652
-208,From Wildflecken to the Feuerberg,Naturpark Bayerische Rhön ,50.244892,10.460734
-209,"Lerchenauer See, Füsselgraben und Allacher Forst","Munich, Bavaria, Germany",48.152126,11.544467
-210,Durch das Bäderland (Etappe ): Oberbach Bad Brückenau,Naturpark Bayerische Rhön ,50.244892,10.460734
-211,Jubilaumsgrat and Sudweststeig,Naturschutzgebiet Schachen and Reintal,47.412492,11.103538
-212,Jenner Mountain Station to Hohes Brett,Berchtesgaden National Park,22.890827,88.425677
-213,Goldsteig Northern Route Stage : Philippsreut to Haidmühle,Bavarian Forest Nature Park,40.755325,-89.57569
-214,Unterjoch Zinken Sorgschrofen,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
-215,Wanderweg Nr. Eußenheim Gesamtweg als Rundweg,"Eußenheim, Bavaria, Germany",50.010962,9.839647
-216,Königstalalm Loop,Berchtesgaden National Park,22.890827,88.425677
-217,Bad Berneck Thiesenring Loop,Naturpark Fichtelgebirge,49.9879,11.979943
-218,To Obere Firstalm around the Spitzingsee,"Schliersee, Bavaria, Germany",47.736714,11.857395
-219,Oberberg Soinsee Rotwand,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
-220,Niedersonthofener Seerundweg,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
-221,Korches Trail: Weismain and the Kordigast,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-222,Oytal von Oberstdorf,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-223,From Bernau to the Seiser Alm,"Bernau a. Chiemsee, Bavaria, Germany",47.816933,12.384344
-224,S Schlüsselfeld,Steigerwald Nature Park,44.34314,-69.65125
-225,Buchrain ab Ohlstadt,"Ohlstadt, Bavaria, Germany",47.633757,11.233078
-226,FrankenwaldSteigla Muschelkalkweg,"Marktrodach, Bavaria, Germany",50.249524,11.388189
-227,Rund um SagwasserTummelplatzAllmeyerschloßMarienburg,"Schönbrunner Wald, Bavaria, Germany",48.917732,13.532934
-228,DreiSeenLand Rund um den Mitter und Lodensee,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-229,Nemmersdorf St.JobstWeg,"Goldkronach, Bavaria, Germany",50.010813,11.68522
-230,Rund um die Wildbarrenhöhle,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
-231,Goldsteig Northern Route Stage : Bayerisch Eisenstein to Großer Falkenstein,Bavarian Forest National Park,29.297308,110.43844
-232,"Wallenfels, Geuser, Zeyern Loop",Naturpark Frankenwald,51.163154,14.455795
-233,Von den Weinreben zur Würzburg und durch die Altstadt,"Würzburg, Bavaria, Germany",49.784984,9.941828
-234,Goldsteig Southern Route Stage : Schrottenbaummühle to Fischhaus,Bavarian Forest Nature Park,40.755325,-89.57569
-235,Wanderung von Unterschleißheim zum Garchinger See,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
-236,Partnachklamm and Partnachalm,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-237,HohenburgSchmidmühlen,"Hohenburg, Bavaria, Germany",46.87111,13.44417
-238,Trettstein Wasserfall,"Gräfendorf, Bavaria, Germany",46.93333,14.41667
-239,Schlechtenbergalm and Gorialm,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
-240,Hohenaschau Hochries,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
-241,Ziegenweg,"Hirschbach, Bavaria, Germany",48.48897,14.412
-242,Von Aschau über Gorialm zur Kampenwand,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
-243,Hoher Brunnen,"Berching, Bavaria, Germany",49.107241,11.441128
-244,Auf den Stoffelberg über Niedersonthofener Wasserfall,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
-245,Premiumwanderweg: Luftiger Grad,Naturpark Nagelfluhkette ,51.163154,14.455795
-246,W valley path: Eichhofen Laaber,"Nittendorf, Bavaria, Germany",49.026614,11.944795
-247,Dörnbachshöhe und das Waldbachtal um Watterbach,Naturpark Bayerischer Odenwald,49.516688,9.200806
-248,To the Kehlstein,"Eck, Bavaria, Germany",47.70459,14.33265
-249,Goldsteig Stage : Rötz to Herzogau,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-250,WaldErlebnispfad Fuchsmühl,"Fuchsmühl, Bavaria, Germany",49.920531,12.14762
-251,Marquartstein Hochgern Roßkopf,"Marquartstein, Bavaria, Germany",47.760283,12.460637
-252,Loop at Penzberg,"Penzberg, Bavaria, Germany",47.751012,11.376709
-253,Around the Rannasee,"Wegscheid, Bavaria, Germany",48.600217,13.78922
-254,Jurasteig: KönigOttoSchlaufe,"Velburg, Bavaria, Germany",49.22904,11.670531
-255,Feichteckalm Runde,"Samerberg, Bavaria, Germany",47.781171,12.212884
-256,Eistobel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
-257,Unterschleißheim nach Markt Indersdorf,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
-258,Altmühl Panoramaweg Schlaufe Dollnstein Wellheim,"Dollnstein, Bavaria, Germany",48.870369,11.073772
-259,Zum Arnsberg und Kreuzberg,"Wildflecken, Bavaria, Germany",50.37831,9.849337
-260,Rund um den Silbersee TB,"Treffelstein, Bavaria, Germany",49.422811,12.616188
-261,Around the Klostersee,Naturschutzgebiet Seeoner Seen,53.700344,10.910936
-262,Riederstein Loop,"Tegernsee, Bavaria, Germany",47.714366,11.756882
-263,FranzJosefs NeideckWestrunde,"Wiesenttal, Bavaria, Germany",49.801809,11.262179
-264,Hiltpoltstein Through the cherry orchards,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-265,Spalt zum Schnittlinger Loch,"Spalt, Bavaria, Germany",49.176995,10.923938
-266,Rothenburger W Gebsattel,"Rothenburg ob der Tauber, Bavaria, Germany",49.377025,10.188145
-267,"Ähndl (Ramsach Kirche), Murnauer Moos, Staffelsee, und Uffing","Murnau am Staffelsee, Bavaria, Germany",47.677497,11.19895
-268,Loop near Michelbach,"Alzenau, Bavaria, Germany",50.086459,9.067924
-269,Schwarzhölzl Rundweg ab Oberschleißheim,"Oberschleißheim, Bavaria, Germany",48.244423,11.560369
-270,Von Aschau zur Gorialm,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
-271,Hirschauer Turmweg,"Hirschau, Bavaria, Germany",49.545675,11.94308
-272,Über die Felder ab Kucha,"Offenhausen, Bavaria, Germany",49.447906,11.41396
-273,Schweinbach Weihbüchl Oberschönbach,"Landshut, Bavaria, Germany",48.533862,12.148372
-274,Jubiläumsweg,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
-275,Thumsee Loop,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
-276,Wartenberg östlicher Wanderung,"Wartenberg, Bavaria, Germany",52.86872,14.61285
-277,Unterschleißheim bis Dachau,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
-278,Im Ferdinandsthal,Bavarian Forest National Park,29.297308,110.43844
-279,Grafenwöhr Trag Bärnwinkel,"Grafenwöhr, Bavaria, Germany",49.642159,11.795828
-280,Vom Giebelhaus zum Engeratsgundsee,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
-281,Keltenweg E,"Ebensfeld, Bavaria, Germany",50.067262,10.958
-282,Wüstenstein Draisendorf Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-283,Weihmichl Loop,"Weihmichl, Bavaria, Germany",48.601822,12.045769
-284,Rundwanderung Thanninger Weiher,"Egling, Bavaria, Germany",47.92254,11.508296
-285,Dürrnbachhörndel,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-286,Waischenfeld Rundwanderweg gelber Ring,"Waischenfeld, Bavaria, Germany",49.847152,11.346688
-287,Water Discovery Tour: Partnach Wetterstein Route,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-288,Hiking in the ZugspitzLand Grainau Höhenrainweg,"Grainau, Bavaria, Germany",47.449497,11.007059
-289,O (Grünes Dreieck): Unterlichtenwald Altenthann,"Altenthann, Bavaria, Germany",49.092216,12.304581
-290,Steinbergalm and Bründlingalm,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
-291,Nördlich des Alpsees: Siedelalpe Rundweg,"Immenstadt, Bavaria, Germany",47.558669,10.224939
-293,Loop at Burgsinn,Spessart Nature Park,44.34314,-69.65125
-294,Bad Grönenbach Herbisried,"Bad Grönenbach, Bavaria, Germany",47.875689,10.221067
-295,Fürholzen und Massenhausen Wanderung,"Neufahrn bei Freising, Bavaria, Germany",48.314007,11.661115
-296,Felsengarten Sanspareil,Felsengarten Sanspareil,50.009563,11.352884
-297,Dorfprozelten über Brasselburg und Faulbach,"Dorfprozelten, Bavaria, Germany",49.781648,9.406251
-298,Von Laufamholz über den Schmausenbuck nach Fischbach,"Nuremberg, Bavaria, Germany",49.342418,11.116223
-299,To the Frauenstein,"Schwangau, Bavaria, Germany",47.578544,10.734986
-300,Von Warching entlang der Gailach,"Monheim, Bavaria, Germany",51.094252,6.893574
-301,To the Wuhrsteinalm on Geigelstein,Naturschutzgebiet Geigelstein ,47.719818,12.291552
-302,"Zwischen Oberroth, Sulzemoos und Kreuzholzhausen","Schwabhausen, Bavaria, Germany",48.301547,11.359496
-303,Kneifelspitze and Marxenhöhe via Maria Gern Church,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-304,Falkenstein Castle Park Loop,Schlosspark Falkenstein,50.555543,9.673889
-305,From Spiegelau to Rachelsee,Bavarian Forest National Park,29.297308,110.43844
-306,Hohenkammer und Petershausen,"Hohenkammer, Bavaria, Germany",48.42491,11.525462
-307,Von Hammersbach zum Höllental via Jägersteig,"Grainau, Bavaria, Germany",47.449497,11.007059
-308,Loop at Kastl,Naturpark Hirschwald,51.163154,14.455795
-309,Dötzenkopf Loop,"Bad Reichenhall, Bavaria, Germany",47.724324,12.869307
-310,Hiking trail : Marquartstein,"Marquartstein, Bavaria, Germany",47.760283,12.460637
-311,Museumsweg Roth,"Roth, Bavaria, Germany",49.247733,11.095246
-312,Tann bei St. Wolfgang Wanderung,"Sankt Wolfgang, Bavaria, Germany",46.78333,15.2
-313,Wandern durch Großer Filz und Klosterfilz,Bavarian Forest National Park,29.297308,110.43844
-314,Thalkirchdorf,Naturpark Nagelfluhkette ,51.163154,14.455795
-315,Tobelbach Röthenbach,"Röthenbach, Bavaria, Germany",49.477103,11.224682
-316,"Gipfeltour: Mittag, Bärenköpfle und Steineberg","Blaichach, Bavaria, Germany",47.541105,10.260103
-317,Johannesberg nach Steinbach über dem Langenberg,"Johannesberg, Bavaria, Germany",59.73333,18.18333
-318,Rednitztal vineyard,"Roth, Bavaria, Germany",49.247733,11.095246
-319,Nandlstadt Rundwanderung,"Nandlstadt, Bavaria, Germany",48.538149,11.804425
-320,Dandlbergalm Loop,"Samerberg, Bavaria, Germany",47.781171,12.212884
-321,Freibergsee Circular from Oberstdorf via Höllwiesenweg,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-322,Wenighösbach Unterafferbach,Spessart Nature Park,44.34314,-69.65125
-323,Premium hiking trail: extra tour forest window,Naturpark Bayerische Rhön ,50.244892,10.460734
-325,From Altershausen around the Rossberg,Haßberge Nature Park,44.34314,-69.65125
-326,Stolzenberg and Rosskopf via AlbertLinkHütte,"Schliersee, Bavaria, Germany",47.736714,11.857395
-327,Rabelsdorf Geißstein,Naturpark Haßberge,51.163154,14.455795
-328,Hohenbrunner Rundwanderweg Blau,"Hohenbrunn, Bavaria, Germany",48.048643,11.703157
-329,Fellhorn ab Seegatterl,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
-330,Premiumwanderweg: Panoramaweg,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
-331,Kupferberg Runde,Naturpark Steinwald,51.163154,14.455795
-332,Gößweinsteiner Sagenweg,"Gößweinstein, Bavaria, Germany",49.768602,11.337741
-333,Taubensee zum Rauschberg,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
-334,Hilpoltstein: educational fish trail,Naturpark Altmühltal,51.163154,14.455795
-335,Tachinger See Nord,"Taching am See, Bavaria, Germany",47.960854,12.726265
-336,Berchtesgaden Königssee Brandkopf,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-337,Hosler Jugendwanderweg,Steigerwald Nature Park,44.34314,-69.65125
-338,Grafing nach Aßling,"Grafing, Bavaria, Germany",48.045537,11.963831
-339,Trettmanns Platte Köhlerlohe,Naturpark Steinwald,51.163154,14.455795
-340,Über Gibacht Wackelstein Hinterberg,"Regenstauf, Bavaria, Germany",49.118136,12.131489
-341,Durch das Inntal: Passau Schardenberg,"Passau, Bavaria, Germany",48.571465,13.437462
-342,Mittenwald Lautersee Barfusspfad,"Mittenwald, Bavaria, Germany",47.44048,11.263952
-343,Hirschenstein Berglauf: Jugendlauf,Bavarian Forest Nature Park,40.755325,-89.57569
-344,Zum Haidberg und Saubühl,"Geschaidt, Bavaria, Germany",49.543757,11.184077
-345,Goldsteig Stage : Falkenberg to Neuhaus,Naturschutzgebiet Waldnaabtal,49.846537,12.199169
-347,Hillenberg Roth Silbersee,Naturpark Bayerische Rhön ,50.244892,10.460734
-348,On the Isar in Krün,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
-349,Von Hornbach zum Falkenstein,"Rettenberg, Bavaria, Germany",47.574688,10.293852
-350,To the Wichtelhölen Bad Kissingen,"Bad Kissingen, Bavaria, Germany",50.19261,10.073472
-351,Baden an den Osterseen,"Iffeldorf, Bavaria, Germany",47.774382,11.322193
-352,Fernwanderweg Lechweg: GrenzeLechfall,"Schwangau, Bavaria, Germany",47.578544,10.734986
-353,SchnappenlahnerTour zur Staudacher Alm,"Staudach Egerndach, Bavaria, Germany",47.778329,12.483265
-354,Almerlebnispfad Ramsau,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-355,Zum Fuchsberg,"Langenbach, Bavaria, Germany",48.440247,11.853946
-356,Von Kreuzthal entlang dem Eisenbach zum Schwarzen Grat,"Buchenberg, Bavaria, Germany",53.89723,20.93228
-357,Prignitz bei Rupprechtsstegen,"Hartenstein, Bavaria, Germany",50.661258,12.669288
-358,Goldsteig Southern Route Stage : Wiesenfelden to Haunkenzell,Bavarian Forest Nature Park,40.755325,-89.57569
-359,Eibsee north bank and RIffelwald,"Grainau, Bavaria, Germany",47.449497,11.007059
-360,Zum Edelsberg,"Pfronten, Bavaria, Germany",47.581385,10.557744
-361,Kloster Weltenburg Donaudurchbruch Wurzberg,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
-362,Berglauf zur Kampenwand genial vital Tour,"Grassau, Bavaria, Germany",47.780688,12.458509
-363,"Große Runde über Entenbühl, Havran und Schellenberg","Flossenbürg, Bavaria, Germany",49.735182,12.350682
-364,Marktschellenberg to Hallein via Mehlweg,"Marktschellenberg, Bavaria, Germany",47.697187,13.04473
-365,Hinterwössen Stoibenmöseralm and Taubensee,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
-366,Via Alpina Purple Trail A : Engedey Neue Traunsteiner Hütte,Berchtesgaden National Park,22.890827,88.425677
-367,Rabenstein nach Kirchahorn,"Ahorntal, Bavaria, Germany",49.849708,11.428407
-369,From Berchtesgaden to Königssee,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-370,Pommelsbrunn Loop Lichtenstein Castle,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-371,Vom Kreuzberg nach Bad Neustadt an der Saale,Naturpark Bayerische Rhön ,50.244892,10.460734
-372,Eibsee loop and Eibsee trail,"Grainau, Bavaria, Germany",47.449497,11.007059
-373,Rund um Alfeld,"Alfeld, Bavaria, Germany",51.988188,9.826172
-374,Vom Söllereck zur Fiderepasshütte über Walser Hammerspitze,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-375,Eibachgrund,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
-377,Eußenheim zur Dicken Eiche als Rundweg ab Dorfplatz,"Eußenheim, Bavaria, Germany",50.010962,9.839647
-378,Vogelwiese Simmereinöd Steinbühler Gesenke,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-379,Loop at Röslau,Naturpark Fichtelgebirge,49.9879,11.979943
-380,Winklmoosalm zum Dürrnbachhorn,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
-381,Around the Lichtenberg,Naturpark Bayerische Rhön ,50.244892,10.460734
-382,NeuhausRundwanderweg No.,"Neuhaus an der Pegnitz, Bavaria, Germany",49.629975,11.556828
-383,Goldsteig Stage : Friedenfels to Falkenberg,Naturpark Steinwald,51.163154,14.455795
-384,Altenstadt Kellmünz (Kreis NeuUlm Tour Nr. ),"Altenstadt, Bavaria, Germany",50.287193,8.942274
-385,Sachrang and Spitzsteinhaus Loop,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
-386,At the Seufzigspitze,Spessart Nature Park,44.34314,-69.65125
-387,Obere Hausbachklamm Oberreute,"Oberreute, Bavaria, Germany",47.563158,9.944027
-388,Wanderung von Rdolfshöhe nach Batzhausen,"Parsberg, Bavaria, Germany",49.160342,11.716656
-389,Neuhaus a. d. Pegnitz nach Königstein,"Königstein, Bavaria, Germany",50.179388,8.471209
-390,To Jochalm via Kesselbach Falls from Kochelsee south bank,"Kochel , Bavaria, Germany",47.653932,11.366395
-391,Krüns southwest,"Krün, Bavaria, Germany",47.50445,11.279901
-392,Kuckuckslauf Königshofen ( km),Spessart Nature Park,44.34314,-69.65125
-393,Around the Happurger See,"Happurg, Bavaria, Germany",49.493936,11.471865
-394,Seinskopf Feldernkopf Soiernspitze,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
-395,"Obertrubach ""green leaf""",Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-396,Almbachklamm and salt mine from Berchtesgaden,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-397,Obertsdorf Walrafweg Berggasthof Gaisalpe,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-398,Zum Kemptener Naturfreundehaus ab Blaichach,Naturpark Nagelfluhkette ,51.163154,14.455795
-399,Weißbach to the Reiteralm,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
-400,PaulPfinzingTrail,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-401,ArchäologieTour Wertachtal,"Pforzen, Bavaria, Germany",47.930028,10.613853
-402,Icking Irschenhausen,"Icking, Bavaria, Germany",47.952347,11.433075
-403,Wanderung auf den Grünstein,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
-404,Hohenstadt Rundweg : EichhörnchenMarkierung,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
-405,Zum Allgäuer Alpen Schrecksee ab Auele,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
-406,Rund um Burghaig,"Kulmbach, Bavaria, Germany",50.104806,11.448023
-407,Rundwanderweg Monheim,"Kaisheim, Bavaria, Germany",48.769458,10.797568
-408,Therapeutic hiking trail,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-409,Schnaittach Glatzenstein Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-410,Gangolfsberg und Thüringer Hütte,Naturschutzgebiet Gangolfsberg,50.465178,10.084687
-411,Eckbauer Hintergraseck Vordergraseck Partnachklamm,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
-412,Zur Wolfskapelle über Böbrach,"Böbrach, Bavaria, Germany",49.055397,13.037048
-413,Alfeld – Claramühle,"Alfeld, Bavaria, Germany",51.988188,9.826172
-414,HammermühleLibaHohenberg,"Hohenberg an der Eger, Bavaria, Germany",50.094836,12.220572
-415,Isar Loop near Krün,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
-416,Markgräflicher Klosterweg ab Bayreuth,"Bayreuth, Bavaria, Germany",49.945412,11.584207
-417,Pleinfeld,"Pleinfeld, Bavaria, Germany",49.104447,10.978487
-418,Rundwanderweg Kipfenberg,"Walting, Bavaria, Germany",27.4541,85.72937
-419,Goldsteig Alternative Nr.: RuselabsatzSchauflingDatting,Bavarian Forest Nature Park,40.755325,-89.57569
-420,To the Kneifelspitze from Hintergern,"Maria Gern, Bavaria, Germany",47.653411,13.003048
-421,Panoramaweg Höhenrainweg ab Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
-422,Von Mariaort über Etterzhausen,"Pettendorf, Bavaria, Germany",49.059231,12.008348
-423,Von Schnaitsee zum Weitsee und Berger See,"Schnaitsee, Bavaria, Germany",48.070316,12.367616
-424,Heilige Länder Tour,Haßberge Nature Park,44.34314,-69.65125
-425,City triangle circular route,"Burglengenfeld, Bavaria, Germany",49.201487,12.039464
-426,Schönau am Königssee nach St. Bartolomä,Berchtesgaden National Park,22.890827,88.425677
-427,Spitzingscheibe,"Bayrischzell, Bavaria, Germany",47.662011,11.985455
-428,Circular hiking trail no.: All around Breitenbrunn,Naturpark Altmühltal,51.163154,14.455795
-429,Kellertour: Greuth Weppersdorf Willersdorf Stibarlimbach,"Höchstadt an der Aisch, Bavaria, Germany",49.708803,10.812098
-430,Panoramasteig Patersdorf: Wanderweg,Bavarian Forest Nature Park,40.755325,-89.57569
-431,Tegernseer Bräustüberl from RottachEgern,"Rottach Egern, Bavaria, Germany",47.686685,11.767553
-432,HupprechtsWachters Alpe,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
-433,Rund um die Talsperre Frauenau,Bavarian Forest National Park,29.297308,110.43844
-434,Dachau nach Oberbachern Rundwanderung,"Dachau, Bavaria, Germany",48.260456,11.439408
-435,Wolfsteinweg Höhenberg nach Schafhof,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
-436,Rund um Stangenroth und Steinberg,Naturpark Bayerische Rhön ,50.244892,10.460734
-437,Langenleiten Kissinger Hut,Naturpark Bayerische Rhön ,50.244892,10.460734
-438,Reichertshausen Hohenkammer Rundweg,"Reichertshausen, Bavaria, Germany",48.464314,11.50257
-439,Steinach an der Saale Rundweg,Naturpark Bayerische Rhön ,50.244892,10.460734
-440,Von Naila durchs Höllental,Naturpark Frankenwald,51.163154,14.455795
-441,Kaitersberg Panoramaweg,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-442,Riffelriss and Hochthörlehütte from Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
-443,Oberasbacher Rundweg (Nr. ),"Oberasbach, Bavaria, Germany",49.417441,10.979644
-444,Vom Kloster Banz zum Main,"Bad Staffelstein, Bavaria, Germany",50.098313,11.031627
-445,Solar Patersholz Eibach,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
-446,Weilbach Loop : Gotthardsbergweg,Naturpark Bayerischer Odenwald,49.516688,9.200806
-447,Geoweg Urdonautal,"Wellheim, Bavaria, Germany",53.90639,22.27273
-448,Von Labersricht nach Ottosau,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
-449,"Unterschleißheim, Berglwald und Schlosspark Oberschleißheim","Unterschleißheim, Bavaria, Germany",48.281797,11.576474
-450,Hiking in the ZugspitzLand Farchant Waldsaumweg,"Farchant, Bavaria, Germany",47.529453,11.111773
-451,From Stephanskirchen around the Hartsee,Naturschutzgebiet EggstättHemhofer Seenplatte,53.438594,13.189055
-452,Rund um Regelsbach,"Rohr, Bavaria, Germany",50.13824,12.39179
-453,Von Meilenhofen dem Haunsbach entlang,"Mainburg, Bavaria, Germany",48.641534,11.782432
-454,Abenberg Nr.,"Georgensgmünd, Bavaria, Germany",49.186168,11.012539
-455,Recreation area Obere Wagensass,"Sulzbach Rosenberg, Bavaria, Germany",49.498075,11.749034
-456,Schloss Hirschling Wichtelfels Stockenfels Binkenhof,Naturwaldreservar Teufelsgsperr,49.203235,12.144608
-457,Rothsee nach Eckersmühlen,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
-458,Hiking in the ZugspitzLand Röhrlebach Ursprünge Farchant,"Oberau, Bavaria, Germany",48.08333,13.76667
-459,Goldsteig Alternative Nr.: ThurmansbangSaldenburg,Bavarian Forest Nature Park,40.755325,-89.57569
-460,Baldenschwanger Panoramarunde,Naturpark Nagelfluhkette ,51.163154,14.455795
-461,Hintersee zum Kammerlinghorn,Berchtesgaden National Park,22.890827,88.425677
-462,HündleErlebniswanderweg,Naturpark Nagelfluhkette ,51.163154,14.455795
-463,Arnsberg Böhming Gungolding,Naturpark Altmühltal,51.163154,14.455795
-464,Gothendorf Biederbach,"Arberg, Bavaria, Germany",58.48333,12.18333
-465,Von Tiefenbach entlang dem Breitach,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
-466,Zur Hochplatte ab Oberau,"Schleching, Bavaria, Germany",47.720891,12.394045
-467,Hochrhöner Stage : Stralsbach Oberweißbrunn,Naturpark Bayerische Rhön ,50.244892,10.460734
-468,Wildensteiner Steig,"Dietfurt an der Altmühl, Bavaria, Germany",49.035433,11.585257
-469,Loop Igelsbachsee,"Spalt, Bavaria, Germany",49.176995,10.923938
-470,Rundwanderweg Pflaumheim : WartturmWeg,"Großostheim, Bavaria, Germany",49.891904,9.029151
-471,Around Hallenknopf and Mandelberg,Spessart Nature Park,44.34314,-69.65125
-472,Kastler castle tour,Naturpark Steinwald,51.163154,14.455795
-473,Absberg,"Absberg, Bavaria, Germany",48.41667,15.96667
-474,Jubilee Trail Gundelsheim,"Gundelsheim, Bavaria, Germany",49.282745,9.161759
-475,WEZ Schernfeld Rundweg,Naturschutzgebiet Vogelinsel im Altmühlsee,49.146482,10.706703
-476,To the Staffelberg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-477,Von Seebruck nach Chieming,"Seeon Seebruck, Bavaria, Germany",47.976803,12.460072
-478,Almbachklamm über Maria Gern ab Berchtesgaden,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
-479,Marienthal nach Hirschling,"Nittenau, Bavaria, Germany",49.194583,12.270583
-480,Wagenthalhütte ab Grenzhammer,Naturpark Fichtelgebirge,49.9879,11.979943
-481,Auf den Jenner über die Wasserfallalm,Berchtesgaden National Park,22.890827,88.425677
-482,Über Eulenberg und Ramspau,"Regenstauf, Bavaria, Germany",49.118136,12.131489
-483,Aus Baunach um Zentberg und Semberg,Naturpark Haßberge,51.163154,14.455795
-484,Rundwanderweg Klingenberg : Fuchs,"Klingenberg am Main, Bavaria, Germany",49.775722,9.180212
-485,SalzAlpenWeg: TraunsteinZwing,"Inzell, Bavaria, Germany",47.763469,12.747394
-486,Konnersreuth,Naturpark Fichtelgebirge,49.9879,11.979943
-487,Weichweg Pommersfelden,"Pommersfelden, Bavaria, Germany",49.764617,10.821836
-488,Ochsenkopfweg,"Bischofsgrün, Bavaria, Germany",50.050927,11.796765
-489,Schützensteig on Kleiner Jenner,Berchtesgaden National Park,22.890827,88.425677
-490,Brannenburg Kiesgruben,"Brannenburg, Bavaria, Germany",47.736114,12.103684
-491,Röthenbach Richtung Waldfriedhof,"Altdorf bei Nürnberg, Bavaria, Germany",49.385648,11.356734
-492,Wanderung zur Kammerlingalm,Berchtesgaden National Park,22.890827,88.425677
-493,Königstein Fichtenhof Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-494,Raiten: Buchberg Rundweg,"Unterwössen, Bavaria, Germany",47.7348,12.457171
-495,Reichertshausen Paunzhausen,"Reichertshausen, Bavaria, Germany",48.464314,11.50257
-496,Druidenrunde von Muggendorf zum Druidenhain und Frauenstein,"Wiesenttal, Bavaria, Germany",49.801809,11.262179
-497,Albsteig Etappe : Mönchsdeggingen Bopfingen,"Mönchsdeggingen, Bavaria, Germany",48.775744,10.581331
-498,Column IVV : Wernfels Castle,"Spalt, Bavaria, Germany",49.176995,10.923938
-499,Großheubach Die Pforte zum Himmel,Naturpark Bayerischer Odenwald,49.516688,9.200806
-500,Beekeeping circuit no.,"Feuchter Forst, Bavaria, Germany",49.374181,11.24061
-501,Eckhartsreuth Untermainsbach Jugenberg,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-502,Von Hirschbichl nach Lohfeyer,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
-503,Über die Ellegg Höhe zum Horn OyMittelberg,"Oy Mittelberg, Bavaria, Germany",47.644868,10.455435
-504,Rotwand Überschreitung,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
-505,Ammergauer GipfelTour,"Ettaler Forst, Bavaria, Germany",47.549943,10.926911
-506,Walderlebnispfad und Zauberwald bei Schönberg,"Schönberg, Bavaria, Germany",54.391848,10.374354
-507,Steinmühle über Loibling und Waffenhof,"Roding, Bavaria, Germany",49.194191,12.520733
-508,Zubringer zum Fernwanderweg Europäischer Wasserscheideweg bei Theuerbronn,Frankenhöhe Nature Park,44.34314,-69.65125
-509,Lohhof nach Ottershausen,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
-510,Solar Jahrsdorf Eibach,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
-511,Kirchröttenbach Epperlesberg Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-512,Schwarzer Fuchs Rundwanderung ab Hemsbach,Spessart Nature Park,44.34314,-69.65125
-513,Panoramawanderweg Taubertal (Fernwanderweg),"Rothenburg ob der Tauber, Bavaria, Germany",49.377025,10.188145
-514,Egloffsteiner Kulturweg Nr.,"Egloffstein, Bavaria, Germany",49.701784,11.258569
-515,Sebaldweg,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
-516,Steinbergrundweg,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
-517,Zeil am Main Hohe Wann DreiLänderStein,"Zeil am Main, Bavaria, Germany",50.013234,10.58923
-518,Von Regenhütte zum Kleinen und Großen Falkenstein,Bavarian Forest National Park,29.297308,110.43844
-519,Von Pfronten zur Burg Falkenstein und der Schlossangeralm,"Pfronten, Bavaria, Germany",47.581385,10.557744
-520,Rundwanderweg Heidenheim,Naturpark Altmühltal,51.163154,14.455795
-521,Kulturweg Aschaffenburg : Schweinheimer Passion,Spessart Nature Park,44.34314,-69.65125
-522,Ammerthaler Runde,"Ammerthal, Bavaria, Germany",49.441494,11.759292
-523,Faulbach nach Breitenbrunn,"Faulbach, Bavaria, Germany",49.45581,6.25834
-524,Kärlingerhaus zum CarlvonStahlHaus,Berchtesgaden National Park,22.890827,88.425677
-525,Wanderweg Fürth – Roßtal,"Fürth, Bavaria, Germany",49.480351,10.981111
-526,Böbrach Wanderroute,"Böbrach, Bavaria, Germany",49.055397,13.037048
-527,Rund um Kohlau,"Rinchnach, Bavaria, Germany",48.950511,13.199237
-528,Wanderweg Nr. Eußenheim Über Schönarts,"Eußenheim, Bavaria, Germany",50.010962,9.839647
-529,Wanderung über den Hochgrat,Naturpark Nagelfluhkette ,51.163154,14.455795
-530,Roter Schrägstrich Aschaffenburg Hohe Wart,"Aschaffenburg, Bavaria, Germany",49.976929,9.147466
-531,WannbachHetzelsdorf Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-532,Kürn Wolferszwinger Weiher,"Bernhardswald, Bavaria, Germany",49.091099,12.248888
-533,Rund um den Massenberg,"Spalt, Bavaria, Germany",49.176995,10.923938
-534,Von Rohrbach nach Wall,"Rohrbach, Bavaria, Germany",48.609667,11.568538
-535,Stadelmühle nach Hotel Gut Wildbad durch Schwänringholz,"Huisheim, Bavaria, Germany",48.824956,10.704888
-536,Loop at Wülfersreuth,Naturpark Fichtelgebirge,49.9879,11.979943
-537,Wandern in PostbauerHeng: Keltenrunde,"Postbauer Heng, Bavaria, Germany",49.302167,11.358727
-538,Monheimer Alb,"Huisheim, Bavaria, Germany",48.824956,10.704888
-539,Medium Geisberg tour,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
-540,Auf dem Immenstädter Horn,Naturpark Nagelfluhkette ,51.163154,14.455795
-541,Von Dürnhart nach Mühlhausen,"Biburg, Bavaria, Germany",48.19064,13.12111
-542,Von Bürgstadt nach Freudenbach und Großheubach,"Bürgstadt, Bavaria, Germany",50.918375,12.807197
-543,Loop at Rehau,Naturpark Altmühltal,51.163154,14.455795
-544,Mühlbacher KarlStraub Weg,"Bad Neustadt an der Saale, Bavaria, Germany",50.32878,10.212283
-545,Von “Hölzernen Männern” zur verschwundenen Burg,Naturpark Haßberge,51.163154,14.455795
-546,Schweinfurter Wanderlust: VerwunschenVerwunschen,"Grafenrheinfeld, Bavaria, Germany",49.99775,10.208766
-547,Durch die Seenlandschaft an der Donau,"Elchingen, Bavaria, Germany",48.447817,10.088049
-548,NeuhausRundwanderweg No.,"Neuhaus an der Pegnitz, Bavaria, Germany",49.629975,11.556828
-549,WolfachRadweg,"Vilshofen an der Donau, Bavaria, Germany",48.630404,13.189717
-551,Around the Kösseine,Naturpark Fichtelgebirge,49.9879,11.979943
-552,Heilige Landschaft Pfaffenwinkel: Sprudelnde Quellen,"Peißenberg, Bavaria, Germany",47.788705,11.063092
-553,Naturraum HofauInnleiten,"Stephanskirchen, Bavaria, Germany",47.856721,12.149357
-554,Wandertrilogie Etappe OberstaufenOberreute,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
-555,Village tour Hausen St. Gangolf,Naturpark Bayerische Rhön ,50.244892,10.460734
-556,Zum Waldspielplatz und zum Grünten,"Wertach, Bavaria, Germany",47.602738,10.41074
-557,Wanderung zur Salmaser Höhe ab Wiedemannsdorf,Naturpark Nagelfluhkette ,51.163154,14.455795
-558,Schlackenmühle nach Schlockenau über Hühnersmühle,"Presseck, Bavaria, Germany",50.228057,11.554032
-559,Jurasteig: HirschwaldSchlaufe,"Rieden, Bavaria, Germany",47.44211,10.6644
-560,Hog hiking trail Reckendorf,Haßberge Nature Park,44.34314,-69.65125
-561,Plankenfels nach Neuwelt,"Plankenfels, Bavaria, Germany",49.88333,11.33333
-562,Hikers Regenstauf: Spechtweg,"Regenstauf, Bavaria, Germany",49.118136,12.131489
-563,Zubringer Urdonautalsteig: Bahnhof Burgheim,"Rennertshofen, Bavaria, Germany",48.758399,11.046865
-564,Von Geisenfeld nach Rohrbach der Ilm entlang,"Geisenfeld, Bavaria, Germany",48.681925,11.613398
-565,Karwendeltour: KrinnerKoflerHütterKarwendelhaus,Karwendel Nature Park,44.34314,-69.65125
-566,Vom Braunweiher zum Seerosenweiher,"Manching, Bavaria, Germany",48.716597,11.480169
-567,Vom Königssee zum Hintersee,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
-568,Engelbergtrails,Naturpark Bayerischer Odenwald,49.516688,9.200806
-569,Von der Alpe Hohenschwand zum Imberg und zurück,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
-570,Sindersbachsee and Lower Basin,Spessart Nature Park,44.34314,-69.65125
-571,Circular hiking trails Baunach: Deer trail,"Baunach, Bavaria, Germany",49.985082,10.848715
-572,Spurensuche am Eginger See,"Eging am See, Bavaria, Germany",48.715312,13.272627
-573,Von Dürnhart nach Abensberg,"Biburg, Bavaria, Germany",48.19064,13.12111
-574,Kleiner Knetzberg,"Knetzgau, Bavaria, Germany",49.994099,10.546137
-575,Über den Hündle,Naturpark Nagelfluhkette ,51.163154,14.455795
-576,Von Oberschleißheim zur Birkhahnstraße,"Oberschleißheim, Bavaria, Germany",48.244423,11.560369
-577,Drahtzieherweg westliche Schleife,"Allersberg, Bavaria, Germany",49.252952,11.242042
-578,Sagensteig,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
-579,Fränkischer Rotwein Wanderweg (Fernwanderweg),Spessart Nature Park,44.34314,-69.65125
+15,HöllbachgsprengFalkensteinRunde,Bavarian Forest National Park,29.297308,110.43844
+16,Brünnstein from Rosengasse,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
+17,To the Kneifelspitze from Maria Gern,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+18,Rund um den Brombachsee,"Pfofeld, Bavaria, Germany",49.103343,10.837124
+19,Von Kehlheim durch die Weltenburger Enge zum Tatzelwurm,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
+20,Hölzlmühlweg,"Hirschau, Bavaria, Germany",49.545675,11.94308
+21,Von Tegernsee auf die Kreuzbergalm,"Tegernsee, Bavaria, Germany",47.714366,11.756882
+22,AltmühltalPanoramaweg Etappe : Riedenburg nach Kelheim,Naturpark Altmühltal,51.163154,14.455795
+23,Ramsauer Malerweg to Hintersee,"Ramsau b. Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+24,Die Watzmanntour: Vom Königssee zum Watzmannhaus,Berchtesgaden National Park,22.890827,88.425677
+25,Tegelberg (Abstieg zur Talstation),"Schwangau, Bavaria, Germany",47.578544,10.734986
+26,Vom Tatzelwurm zum Brünnsteingipfel,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
+27,Branderschrofen Via Ferrata,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+28,Wanderung durch die Wimbachklamm,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+29,Teufelstättkopf and Pürschling,Naturpark Ammergauer Alpen,51.163154,14.455795
+30,Ettaler Mandl circular route from Oberammergau,"Oberammergau, Bavaria, Germany",47.596055,11.067191
+31,To the Hochgern summit via Roßkopf,"Marquartstein, Bavaria, Germany",47.760283,12.460637
+32,Grenzwanderung am Fellhorngrat,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+33,Magic Forest Educational Trail,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+34,Rubihorn Klettersteig,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+35,Lusen Rundweg ab Waldhäuser,Bavarian Forest National Park,29.297308,110.43844
+36,Wankbahn Talstation zur Wankbahn Mittelstation,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+37,Breitenstein und Bockstein über Bucheralm,"Fischbachau, Bavaria, Germany",47.718903,11.949842
+38,Garmisch Partenkirchen and Gschwandtner Bauer Pfeifferalm Loop,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+39,Rund um den Hintersee,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+40,Wertach Rundweg,"Bobingen, Bavaria, Germany",48.27077,10.833833
+41,Bamberg and Altenburg,"Bamberg, Bavaria, Germany",49.895431,10.897137
+42,Von der LaberBergbahn nach Oberammergau,"Oberammergau, Bavaria, Germany",47.596055,11.067191
+43,Rund um die Herreninsel über Otto's und Paul's Ruh',Herrenchiemsee,47.86761,12.39599
+44,Eckbauer Partnachklamm ab Talstation Eckbauerbahn,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+45,Ulm Blautopf,"NeuUlm, Bavaria, Germany",48.3925,9.9938
+46,Püttlachtal Himmelsleiter,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+47,Von Weiler zum Naturschutzgebiet Trogener Moore,"Weiler Simmerberg, Bavaria, Germany",47.582331,9.911846
+48,Skulpturenweg Maierhofen,"Maierhöfen, Bavaria, Germany",47.67423,16.22904
+49,Maisinger See,"Feldafing, Bavaria, Germany",47.944209,11.293705
+50,Ehrenbachtalweg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+51,Tegernsee Hut and Röhrlmoos Alm,"Kreuth, Bavaria, Germany",46.8,14.18333
+52,Durch das Oytal,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
+53,Altmühltal Rundweg Nr.,Naturpark Altmühltal,51.163154,14.455795
+54,On the Isar from Landshut to Ellermühle,"Landshut, Bavaria, Germany",48.533862,12.148372
+55,Von Immenstadt nach Bolgenach,Naturpark Nagelfluhkette ,51.163154,14.455795
+56,Rundwanderweg Kleiner Arbersee,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+57,Premiumwanderweg: Alpenfreiheit,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
+58,Von Lindenhof zum Mühlnickelweiher durch das NSG Waldnaabtal,Naturschutzgebiet Waldnaabtal,49.846537,12.199169
+59,Spitzingsee and Valeppalmen Loop,"Schliersee, Bavaria, Germany",47.736714,11.857395
+60,WiesenPanoramaWeg,"Nordhalben, Bavaria, Germany",50.37496,11.510441
+61,Nebelhorn via Oytal,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
+62,Eistobel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
+63,Riedholzer Kugel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
+64,Scheidegg zum Pfänder,"Scheidegg, Bavaria, Germany",47.584069,9.854134
+65,Zum Brünnstein ab Kreit,"Kiefersfelden, Bavaria, Germany",47.612734,12.190504
+66,Rundwanderweg Spalt Hofstetten,"Spalt, Bavaria, Germany",49.176995,10.923938
+67,Kammwanderung Schellschlicht,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+68,Grüntenwanderung,"Rettenberg, Bavaria, Germany",47.574688,10.293852
+69,Eistobel: Oberer Wasserfall am Eissteg,"Grünenbach, Bavaria, Germany",47.629616,10.010093
+70,Benediktusweg Berching,"Berching, Bavaria, Germany",49.107241,11.441128
+71,Grünstein Via Ferrata from Konigssee,"Schönau a. Königssee, Bavaria, Germany",47.6023,12.98699
+72,Aueralm and Zwergelberg,"Bad Wiessee, Bavaria, Germany",47.716423,11.722012
+73,Tegernseer Höhenweg over the Neureuther summit from St. Quirin,"Gmund am Tegernsee, Bavaria, Germany",47.750362,11.737976
+74,Unfindener Waldrunde über Königsberg in Bayern,Haßberge Nature Park,44.34314,-69.65125
+75,Notkarspitz über Gießenbach,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+76,Small Johannisberg round,"Freudenberg, Bavaria, Germany",50.899784,7.874453
+77,Grosser Traithen,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
+78,Schnippenkopf,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+79,Brandorfer Forest Loop,Haßberge Nature Park,44.34314,-69.65125
+80,Schärtenspitze Via Ferrata,Berchtesgaden National Park,22.890827,88.425677
+81,Zugspitze Gipfeltour,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+82,Hörnle Loop,Naturpark Ammergauer Alpen,51.163154,14.455795
+83,Schildenstein Rundweg,"Kreuth, Bavaria, Germany",46.8,14.18333
+84,Helmer Hütte to Herzogstand Mountain Guest House,"Kochel , Bavaria, Germany",47.653932,11.366395
+85,Weltenburger Wanderwege: I Donauroute,Naturpark Altmühltal,51.163154,14.455795
+86,Vom Pflegersee zum Feldernkopf über die Enningalm,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+87,Brecherspitz,"Schliersee, Bavaria, Germany",47.736714,11.857395
+88,Illschwang zum Osterloch,"Illschwang, Bavaria, Germany",49.449015,11.684887
+89,Nussdorf auf den Heuberg,"Nußdorf am Inn, Bavaria, Germany",47.742464,12.157573
+90,HinterseeZauberwaldRamsau,Berchtesgaden National Park,22.890827,88.425677
+91,"Ohlstadt zur Veste Schaumburg, dem Großen Illing und zur Kaseralm","Ohlstadt, Bavaria, Germany",47.633757,11.233078
+92,Goldsteig Stage : Marktredwitz to Friedenfels,Naturpark Steinwald,51.163154,14.455795
+93,Marathon Füssen,"Füssen, Bavaria, Germany",47.568013,10.693711
+94,Goldsteig Northern Route Stage : Eck to Großer Arber,Bavarian Forest Nature Park,40.755325,-89.57569
+95,Hörndlwand Old Schmidkunzweg,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+96,Weissbach Gorge,"Schneizlreuth, Bavaria, Germany",47.690013,12.801937
+97,Via Alpina Purple Trail A : Tutzinger Hütte Herzogstand,"Benediktbeuern, Bavaria, Germany",47.705086,11.413774
+98,"Würzburg, Marienberg, and Steinbachtal","Würzburg, Bavaria, Germany",49.784984,9.941828
+99,Von Rottach auf den Falkenstein,"Rettenberg, Bavaria, Germany",47.574688,10.293852
+100,Karwendel to Mittenwald,"Mittenwald, Bavaria, Germany",47.44048,11.263952
+101,Riedenburg loop,Naturpark Altmühltal,51.163154,14.455795
+102,Frankenweg von Heiligenstadt nach Behringersmühle über dem Streitberg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+103,Kloster Andechs Runde,"Andechs, Bavaria, Germany",47.968835,11.18182
+104,Premiumwanderweg: Klausenbachklamm,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
+105,"Hundham, Sternplatte und Schwarzenberg Rundweg","Fischbachau, Bavaria, Germany",47.718903,11.949842
+106,Rappenseekopf über Rappenseehütte und schwarze Hütte,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
+107,Auf den Frieder,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+108,Gipfelwanderung zum Seekarkreuz,"Lenggries, Bavaria, Germany",47.682374,11.576555
+109,Notkarspitze über Ochsensitz und Ziegelspitz,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+110,Frankenweg von Schesslitz nach Heiligenstadt via Glechburg,"Scheßlitz, Bavaria, Germany",49.974567,11.029575
+111,Lohberghütte zum Schwarzeck,"Lohberg, Bavaria, Germany",54.19925,19.70315
+112,Große Riffelwandspitze (Abstieg),"Grainau, Bavaria, Germany",47.449497,11.007059
+113,Große Dillbergrunde,"Postbauer Heng, Bavaria, Germany",49.302167,11.358727
+114,Imberg Hochwies Alpe Glutschwanden,Naturpark Nagelfluhkette ,51.163154,14.455795
+115,Von Bad Brückenau auf den Dreistelz,Naturpark Bayerische Rhön ,50.244892,10.460734
+116,Maria im Weingarten and Kammerberg Loop,"Volkach, Bavaria, Germany",49.861193,10.233518
+117,From Garmisch Partenkirchen to the Kreuzeckhaus,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+118,Großer OsterseeRundweg,"Iffeldorf, Bavaria, Germany",47.774382,11.322193
+119,Zum Osser über den Grenzpfad,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+120,HochgratRunde,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
+121,Frankenweg von Behringersmühle nach Egloffstein über Kirchenbirkig,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+122,Jenner Schönau am Königssee,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
+123,Zur Hochries,"Samerberg, Bavaria, Germany",47.781171,12.212884
+124,Kindinger Burgenweg,Naturpark Altmühltal,51.163154,14.455795
+125,Hiking in the ZugspitzLand Grainau Zum Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
+126,MeterHöhenweg in der Hersbrucker Schweiz,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
+127,Westallgäuer Wasserwege,"Weiler Simmerberg, Bavaria, Germany",47.582331,9.911846
+128,Through theMärchenwald to Butzn Wirt,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
+129,Hechtsee Thiersee Gießenbachklamm,"Kiefersfelden, Bavaria, Germany",47.612734,12.190504
+130,Kampenwand via ferrata,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
+131,Goldsteig Northern Route Stage : Herzogau to Furth im Wald,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+132,Perlacher Forst bei Taufkirchen,"Taufkirchen, Bavaria, Germany",48.049878,11.604593
+133,Königsbachalm über die Wasserfallalm,Berchtesgaden National Park,22.890827,88.425677
+134,Goldsteig Zuweg Nr. : BodenmaisKleiner Arber,Bavarian Forest Nature Park,40.755325,-89.57569
+135,AltmühltalPanoramaweg Etappe : Beilngries nach Dietfurt,Naturpark Altmühltal,51.163154,14.455795
+136,"Wasserspitz, Rinnenspitz, und Bodenschneid","Schliersee, Bavaria, Germany",47.736714,11.857395
+137,Hochgrat Panoramarunde,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
+138,Hochplatte Rundweg,"Marquartstein, Bavaria, Germany",47.760283,12.460637
+139,Sonntagshorn and Kraxenbach Valley,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+140,Paradiestal,"Stadelhofen, Bavaria, Germany",49.990595,11.162357
+141,SeenRundwanderung bei Stephanskirchen,Naturschutzgebiet EggstättHemhofer Seenplatte,53.438594,13.189055
+142,AltmühltalPanoramaweg Etappe : Dietfurt nach Riedenburg,Naturpark Altmühltal,51.163154,14.455795
+143,On the Danube in Lauingen,"Lauingen, Bavaria, Germany",48.573163,10.426974
+144,To the Hainburg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+145,From Unterau to Königssee,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+146,Unterbrunn ins Würmtal und Königswieser Forst,"Gauting, Bavaria, Germany",48.070922,11.37745
+147,Premiumwanderweg: Kuppenweg,UNESCOBiosphärenreservat Rhön,45.283941,4.583177
+148,Spitzing Lake to the Rotwand Hut,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
+149,MeterHöhenweg Pommelsbrunn,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+150,NeuhausenNymphenburg,Schlosspark Nymphenburg,50.555543,9.673889
+151,Stiealm ab Untermberg,"Wackersberg, Bavaria, Germany",47.735827,11.54642
+152,Schinder,"Rottach Egern, Bavaria, Germany",47.686685,11.767553
+153,Obermaiselstein Grasgeheren,"Obermaiselstein, Bavaria, Germany",47.44725,10.237248
+154,Auf den Richtstrichkopf,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
+155,Johannesberg Hahnenkamm,Spessart Nature Park,44.34314,-69.65125
+156,Naturpfad Ahornreitweg,"Schwangau, Bavaria, Germany",47.578544,10.734986
+157,Schwarzenberg Loop,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
+158,Vom Achenpass auf die Hochalm,"Lenggries, Bavaria, Germany",47.682374,11.576555
+159,Fichtelsee Seehaus,"Fichtelberg, Bavaria, Germany",49.999955,11.854175
+160,Mangfalltal und Valley Klosterstüberl Wanderung,"Valley, Bavaria, Germany",32.818377,-85.188208
+161,Christertshofen Rennertshofen (Kreis NeuUlm Tour Nr. ),"Buch, Bavaria, Germany",48.11667,15.03333
+162,Vom Mittag ins Steigbachtal über Steineberg,Naturpark Nagelfluhkette ,51.163154,14.455795
+163,Goldsteig Northern Route Stage : Furth im Wald to Schönbuchen,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+164,Premiumwanderweg: Basaltweg,Naturpark Bayerische Rhön ,50.244892,10.460734
+165,Rund um Leutenbach,Ehrenbürg (Walberla),52.745695,8.708627
+166,Frankenweg von Wallenfels nach Kronach via Radspitze,Naturpark Frankenwald,51.163154,14.455795
+167,Kötztinger Hütte,"Arrach, Bavaria, Germany",49.188186,12.993424
+168,Goldsteig Northern Route Stage : Lusen to Mauth,Bavarian Forest National Park,29.297308,110.43844
+169,Kleiner Osser and Grosser Osser,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+170,Frankenweg von Kulmbach nach Oberlangheim via Isling,"Kulmbach, Bavaria, Germany",50.104806,11.448023
+171,Oberau zu Krottenkopfhütte und Abstieg über Esterbergalm und Farchant,"Farchant, Bavaria, Germany",47.529453,11.111773
+172,Wanderung zur Krokusblüte am Hündle,Naturpark Nagelfluhkette ,51.163154,14.455795
+173,Goldsteig Northern Route Stage : Großer Arber to Bayerisch Eisenstein,Bavarian Forest Nature Park,40.755325,-89.57569
+174,Houbirg,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
+175,Frankenweg von Kronach nach Kulmbach,Naturpark Frankenwald,51.163154,14.455795
+176,Frankenweg von Naila nach Wallenfels über den Döbraberg,Naturpark Frankenwald,51.163154,14.455795
+177,Natural Spectacle Kreuth The Water Adventure Trail along the Weißach,"Kreuth, Bavaria, Germany",46.8,14.18333
+178,Rund ums Walberla,"Wiesenthau, Bavaria, Germany",49.713364,11.136582
+179,Gipfelwanderung Hoher Göll ab Ofnerboden,Berchtesgaden National Park,22.890827,88.425677
+180,Reisberg ab Leutenbach,"Leutenbach, Bavaria, Germany",48.887005,9.39052
+181,Walchensee Gorge,"Kochel , Bavaria, Germany",47.653932,11.366395
+182,Naturkundlicher Rundwanderweg Plech,"Plech, Bavaria, Germany",49.651491,11.469153
+183,Premiumwanderweg: Hüttentour,Naturpark Bayerische Rhön ,50.244892,10.460734
+184,Unteremmendorf durch den Wald,"Kinding, Bavaria, Germany",4.91667,10.73333
+185,Goldsteig Stage : Tännesberg to Oberviechtach,Naturpark Oberpfälzer Wald,48.780925,13.80375
+186,Oberer Horizontalsteig zwischen Lusen und Rachel,Bavarian Forest National Park,29.297308,110.43844
+187,"Luisenburg, Haberstein, Felsenlabyrinth",Naturpark Fichtelgebirge,49.9879,11.979943
+188,Brünstelkopf trail,Naturschutzgebiet Ammergebirge,47.602072,10.812889
+189,From Weitsee to Stuhlkopf via Gräbenalm,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+190,Entlang der Donau in NSG Weltenburger Enge,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
+191,Fischhaus Saldenburg Obere Ilz,"Ruderting, Bavaria, Germany",48.652605,13.413049
+192,"Burgruine Neideck, Brunhildenstein und Trainmeuseler Brunnen","Wiesenttal, Bavaria, Germany",49.801809,11.262179
+193,Goldsteig: From Grandsberg to Hirschenstein,Bavarian Forest Nature Park,40.755325,-89.57569
+194,Rund um den Hollenberg,"Pottenstein, Bavaria, Germany",49.773575,11.406943
+195,Friesenhausen Schwedenschanze,Haßberge Nature Park,44.34314,-69.65125
+196,Wendelstein Expeditions Geology Loop,"Bayrischzell, Bavaria, Germany",47.662011,11.985455
+197,Bahntrassenradweg AmbergSchmidmühlen,Naturpark Hirschwald,51.163154,14.455795
+198,Rabenberg with Observation Tower,Naturpark Nördlicher Oberpfälzer Wald,48.780925,13.80375
+199,AchenkirchWildbad Kreuth,"Kreuth, Bavaria, Germany",46.8,14.18333
+200,Von der Burg Hohenberg zur Eger,Naturpark Fichtelgebirge,49.9879,11.979943
+201,Pottenstein () bis Teufelshöhle,"Pottenstein, Bavaria, Germany",49.773575,11.406943
+202,"Steinkartrundweg: Wanderweg , A","Bad Griesbach, Bavaria, Germany",48.4501,13.194792
+203,Around the Ainringer Moor,"Ainring, Bavaria, Germany",47.817757,12.954758
+204,Höhenglücksteig (Teil ),"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
+205,Schermshöhe Eibgrat Reuthof,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+206,Landsberg Wanderung,"Landsberg am Lech, Bavaria, Germany",48.051822,10.866652
+207,From Wildflecken to the Feuerberg,Naturpark Bayerische Rhön ,50.244892,10.460734
+208,"Lerchenauer See, Füsselgraben und Allacher Forst","Munich, Bavaria, Germany",48.152126,11.544467
+209,Durch das Bäderland (Etappe ): Oberbach Bad Brückenau,Naturpark Bayerische Rhön ,50.244892,10.460734
+210,Jubilaumsgrat and Sudweststeig,Naturschutzgebiet Schachen and Reintal,47.412492,11.103538
+211,Jenner Mountain Station to Hohes Brett,Berchtesgaden National Park,22.890827,88.425677
+212,Goldsteig Northern Route Stage : Philippsreut to Haidmühle,Bavarian Forest Nature Park,40.755325,-89.57569
+213,Unterjoch Zinken Sorgschrofen,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
+214,Wanderweg Nr. Eußenheim Gesamtweg als Rundweg,"Eußenheim, Bavaria, Germany",50.010962,9.839647
+215,Königstalalm Loop,Berchtesgaden National Park,22.890827,88.425677
+216,Bad Berneck Thiesenring Loop,Naturpark Fichtelgebirge,49.9879,11.979943
+217,To Obere Firstalm around the Spitzingsee,"Schliersee, Bavaria, Germany",47.736714,11.857395
+218,Oberberg Soinsee Rotwand,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
+219,Niedersonthofener Seerundweg,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
+220,Korches Trail: Weismain and the Kordigast,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+221,Oytal von Oberstdorf,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+222,From Bernau to the Seiser Alm,"Bernau a. Chiemsee, Bavaria, Germany",47.816933,12.384344
+223,S Schlüsselfeld,Steigerwald Nature Park,44.34314,-69.65125
+224,Buchrain ab Ohlstadt,"Ohlstadt, Bavaria, Germany",47.633757,11.233078
+225,FrankenwaldSteigla Muschelkalkweg,"Marktrodach, Bavaria, Germany",50.249524,11.388189
+226,Rund um SagwasserTummelplatzAllmeyerschloßMarienburg,"Schönbrunner Wald, Bavaria, Germany",48.917732,13.532934
+227,DreiSeenLand Rund um den Mitter und Lodensee,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+228,Nemmersdorf St.JobstWeg,"Goldkronach, Bavaria, Germany",50.010813,11.68522
+229,Rund um die Wildbarrenhöhle,"Oberaudorf, Bavaria, Germany",47.647947,12.174034
+230,Goldsteig Northern Route Stage : Bayerisch Eisenstein to Großer Falkenstein,Bavarian Forest National Park,29.297308,110.43844
+231,"Wallenfels, Geuser, Zeyern Loop",Naturpark Frankenwald,51.163154,14.455795
+232,Von den Weinreben zur Würzburg und durch die Altstadt,"Würzburg, Bavaria, Germany",49.784984,9.941828
+233,Goldsteig Southern Route Stage : Schrottenbaummühle to Fischhaus,Bavarian Forest Nature Park,40.755325,-89.57569
+234,Wanderung von Unterschleißheim zum Garchinger See,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
+235,Partnachklamm and Partnachalm,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+236,HohenburgSchmidmühlen,"Hohenburg, Bavaria, Germany",46.87111,13.44417
+237,Trettstein Wasserfall,"Gräfendorf, Bavaria, Germany",46.93333,14.41667
+238,Schlechtenbergalm and Gorialm,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
+239,Hohenaschau Hochries,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
+240,Ziegenweg,"Hirschbach, Bavaria, Germany",48.48897,14.412
+241,Von Aschau über Gorialm zur Kampenwand,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
+242,Hoher Brunnen,"Berching, Bavaria, Germany",49.107241,11.441128
+243,Auf den Stoffelberg über Niedersonthofener Wasserfall,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
+244,Premiumwanderweg: Luftiger Grad,Naturpark Nagelfluhkette ,51.163154,14.455795
+245,W valley path: Eichhofen Laaber,"Nittendorf, Bavaria, Germany",49.026614,11.944795
+246,Dörnbachshöhe und das Waldbachtal um Watterbach,Naturpark Bayerischer Odenwald,49.516688,9.200806
+247,To the Kehlstein,"Eck, Bavaria, Germany",47.70459,14.33265
+248,Goldsteig Stage : Rötz to Herzogau,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+249,WaldErlebnispfad Fuchsmühl,"Fuchsmühl, Bavaria, Germany",49.920531,12.14762
+250,Marquartstein Hochgern Roßkopf,"Marquartstein, Bavaria, Germany",47.760283,12.460637
+251,Loop at Penzberg,"Penzberg, Bavaria, Germany",47.751012,11.376709
+252,Around the Rannasee,"Wegscheid, Bavaria, Germany",48.600217,13.78922
+253,Jurasteig: KönigOttoSchlaufe,"Velburg, Bavaria, Germany",49.22904,11.670531
+254,Feichteckalm Runde,"Samerberg, Bavaria, Germany",47.781171,12.212884
+255,Eistobel,"Grünenbach, Bavaria, Germany",47.629616,10.010093
+256,Unterschleißheim nach Markt Indersdorf,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
+257,Altmühl Panoramaweg Schlaufe Dollnstein Wellheim,"Dollnstein, Bavaria, Germany",48.870369,11.073772
+258,Zum Arnsberg und Kreuzberg,"Wildflecken, Bavaria, Germany",50.37831,9.849337
+259,Rund um den Silbersee TB,"Treffelstein, Bavaria, Germany",49.422811,12.616188
+260,Around the Klostersee,Naturschutzgebiet Seeoner Seen,53.700344,10.910936
+261,Riederstein Loop,"Tegernsee, Bavaria, Germany",47.714366,11.756882
+262,FranzJosefs NeideckWestrunde,"Wiesenttal, Bavaria, Germany",49.801809,11.262179
+263,Hiltpoltstein Through the cherry orchards,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+264,Spalt zum Schnittlinger Loch,"Spalt, Bavaria, Germany",49.176995,10.923938
+265,Rothenburger W Gebsattel,"Rothenburg ob der Tauber, Bavaria, Germany",49.377025,10.188145
+266,"Ähndl (Ramsach Kirche), Murnauer Moos, Staffelsee, und Uffing","Murnau am Staffelsee, Bavaria, Germany",47.677497,11.19895
+267,Loop near Michelbach,"Alzenau, Bavaria, Germany",50.086459,9.067924
+268,Schwarzhölzl Rundweg ab Oberschleißheim,"Oberschleißheim, Bavaria, Germany",48.244423,11.560369
+269,Von Aschau zur Gorialm,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
+270,Hirschauer Turmweg,"Hirschau, Bavaria, Germany",49.545675,11.94308
+271,Über die Felder ab Kucha,"Offenhausen, Bavaria, Germany",49.447906,11.41396
+272,Schweinbach Weihbüchl Oberschönbach,"Landshut, Bavaria, Germany",48.533862,12.148372
+273,Jubiläumsweg,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
+274,Thumsee Loop,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
+275,Wartenberg östlicher Wanderung,"Wartenberg, Bavaria, Germany",52.86872,14.61285
+276,Unterschleißheim bis Dachau,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
+277,Im Ferdinandsthal,Bavarian Forest National Park,29.297308,110.43844
+278,Grafenwöhr Trag Bärnwinkel,"Grafenwöhr, Bavaria, Germany",49.642159,11.795828
+279,Vom Giebelhaus zum Engeratsgundsee,Naturschutzgebiet Allgäuer Hochalpen,47.564956,12.28843
+280,Keltenweg E,"Ebensfeld, Bavaria, Germany",50.067262,10.958
+281,Wüstenstein Draisendorf Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+282,Weihmichl Loop,"Weihmichl, Bavaria, Germany",48.601822,12.045769
+283,Rundwanderung Thanninger Weiher,"Egling, Bavaria, Germany",47.92254,11.508296
+284,Dürrnbachhörndel,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+285,Waischenfeld Rundwanderweg gelber Ring,"Waischenfeld, Bavaria, Germany",49.847152,11.346688
+286,Water Discovery Tour: Partnach Wetterstein Route,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+287,Hiking in the ZugspitzLand Grainau Höhenrainweg,"Grainau, Bavaria, Germany",47.449497,11.007059
+288,O (Grünes Dreieck): Unterlichtenwald Altenthann,"Altenthann, Bavaria, Germany",49.092216,12.304581
+289,Steinbergalm and Bründlingalm,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
+290,Nördlich des Alpsees: Siedelalpe Rundweg,"Immenstadt, Bavaria, Germany",47.558669,10.224939
+291,Loop at Burgsinn,Spessart Nature Park,44.34314,-69.65125
+292,Bad Grönenbach Herbisried,"Bad Grönenbach, Bavaria, Germany",47.875689,10.221067
+293,Fürholzen und Massenhausen Wanderung,"Neufahrn bei Freising, Bavaria, Germany",48.314007,11.661115
+294,Felsengarten Sanspareil,Felsengarten Sanspareil,50.009563,11.352884
+295,Dorfprozelten über Brasselburg und Faulbach,"Dorfprozelten, Bavaria, Germany",49.781648,9.406251
+296,Von Laufamholz über den Schmausenbuck nach Fischbach,"Nuremberg, Bavaria, Germany",49.342418,11.116223
+297,To the Frauenstein,"Schwangau, Bavaria, Germany",47.578544,10.734986
+298,Von Warching entlang der Gailach,"Monheim, Bavaria, Germany",51.094252,6.893574
+299,To the Wuhrsteinalm on Geigelstein,Naturschutzgebiet Geigelstein ,47.719818,12.291552
+300,"Zwischen Oberroth, Sulzemoos und Kreuzholzhausen","Schwabhausen, Bavaria, Germany",48.301547,11.359496
+301,Kneifelspitze and Marxenhöhe via Maria Gern Church,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+302,Falkenstein Castle Park Loop,Schlosspark Falkenstein,50.555543,9.673889
+303,From Spiegelau to Rachelsee,Bavarian Forest National Park,29.297308,110.43844
+304,Hohenkammer und Petershausen,"Hohenkammer, Bavaria, Germany",48.42491,11.525462
+305,Von Hammersbach zum Höllental via Jägersteig,"Grainau, Bavaria, Germany",47.449497,11.007059
+306,Loop at Kastl,Naturpark Hirschwald,51.163154,14.455795
+307,Dötzenkopf Loop,"Bad Reichenhall, Bavaria, Germany",47.724324,12.869307
+308,Hiking trail : Marquartstein,"Marquartstein, Bavaria, Germany",47.760283,12.460637
+309,Museumsweg Roth,"Roth, Bavaria, Germany",49.247733,11.095246
+310,Tann bei St. Wolfgang Wanderung,"Sankt Wolfgang, Bavaria, Germany",46.78333,15.2
+311,Wandern durch Großer Filz und Klosterfilz,Bavarian Forest National Park,29.297308,110.43844
+312,Thalkirchdorf,Naturpark Nagelfluhkette ,51.163154,14.455795
+313,Tobelbach Röthenbach,"Röthenbach, Bavaria, Germany",49.477103,11.224682
+314,"Gipfeltour: Mittag, Bärenköpfle und Steineberg","Blaichach, Bavaria, Germany",47.541105,10.260103
+315,Johannesberg nach Steinbach über dem Langenberg,"Johannesberg, Bavaria, Germany",59.73333,18.18333
+316,Rednitztal vineyard,"Roth, Bavaria, Germany",49.247733,11.095246
+317,Nandlstadt Rundwanderung,"Nandlstadt, Bavaria, Germany",48.538149,11.804425
+318,Dandlbergalm Loop,"Samerberg, Bavaria, Germany",47.781171,12.212884
+319,Freibergsee Circular from Oberstdorf via Höllwiesenweg,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+320,Wenighösbach Unterafferbach,Spessart Nature Park,44.34314,-69.65125
+321,Premium hiking trail: extra tour forest window,Naturpark Bayerische Rhön ,50.244892,10.460734
+322,From Altershausen around the Rossberg,Haßberge Nature Park,44.34314,-69.65125
+323,Stolzenberg and Rosskopf via AlbertLinkHütte,"Schliersee, Bavaria, Germany",47.736714,11.857395
+324,Rabelsdorf Geißstein,Naturpark Haßberge,51.163154,14.455795
+325,Hohenbrunner Rundwanderweg Blau,"Hohenbrunn, Bavaria, Germany",48.048643,11.703157
+326,Fellhorn ab Seegatterl,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
+327,Premiumwanderweg: Panoramaweg,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
+328,Kupferberg Runde,Naturpark Steinwald,51.163154,14.455795
+329,Gößweinsteiner Sagenweg,"Gößweinstein, Bavaria, Germany",49.768602,11.337741
+330,Taubensee zum Rauschberg,"Ruhpolding, Bavaria, Germany",47.761064,12.648801
+331,Hilpoltstein: educational fish trail,Naturpark Altmühltal,51.163154,14.455795
+332,Tachinger See Nord,"Taching am See, Bavaria, Germany",47.960854,12.726265
+333,Berchtesgaden Königssee Brandkopf,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+334,Hosler Jugendwanderweg,Steigerwald Nature Park,44.34314,-69.65125
+335,Grafing nach Aßling,"Grafing, Bavaria, Germany",48.045537,11.963831
+336,Trettmanns Platte Köhlerlohe,Naturpark Steinwald,51.163154,14.455795
+337,Über Gibacht Wackelstein Hinterberg,"Regenstauf, Bavaria, Germany",49.118136,12.131489
+338,Durch das Inntal: Passau Schardenberg,"Passau, Bavaria, Germany",48.571465,13.437462
+339,Mittenwald Lautersee Barfusspfad,"Mittenwald, Bavaria, Germany",47.44048,11.263952
+340,Hirschenstein Berglauf: Jugendlauf,Bavarian Forest Nature Park,40.755325,-89.57569
+341,Zum Haidberg und Saubühl,"Geschaidt, Bavaria, Germany",49.543757,11.184077
+342,Goldsteig Stage : Falkenberg to Neuhaus,Naturschutzgebiet Waldnaabtal,49.846537,12.199169
+343,Hillenberg Roth Silbersee,Naturpark Bayerische Rhön ,50.244892,10.460734
+344,On the Isar in Krün,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
+345,Von Hornbach zum Falkenstein,"Rettenberg, Bavaria, Germany",47.574688,10.293852
+346,To the Wichtelhölen Bad Kissingen,"Bad Kissingen, Bavaria, Germany",50.19261,10.073472
+347,Baden an den Osterseen,"Iffeldorf, Bavaria, Germany",47.774382,11.322193
+348,Fernwanderweg Lechweg: GrenzeLechfall,"Schwangau, Bavaria, Germany",47.578544,10.734986
+349,SchnappenlahnerTour zur Staudacher Alm,"Staudach Egerndach, Bavaria, Germany",47.778329,12.483265
+350,Almerlebnispfad Ramsau,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+351,Zum Fuchsberg,"Langenbach, Bavaria, Germany",48.440247,11.853946
+352,Von Kreuzthal entlang dem Eisenbach zum Schwarzen Grat,"Buchenberg, Bavaria, Germany",53.89723,20.93228
+353,Prignitz bei Rupprechtsstegen,"Hartenstein, Bavaria, Germany",50.661258,12.669288
+354,Goldsteig Southern Route Stage : Wiesenfelden to Haunkenzell,Bavarian Forest Nature Park,40.755325,-89.57569
+355,Eibsee north bank and RIffelwald,"Grainau, Bavaria, Germany",47.449497,11.007059
+356,Zum Edelsberg,"Pfronten, Bavaria, Germany",47.581385,10.557744
+357,Kloster Weltenburg Donaudurchbruch Wurzberg,Naturschutzgebiet Weltenburger Enge/ Donaudurchbruch,48.911284,11.830377
+358,Berglauf zur Kampenwand genial vital Tour,"Grassau, Bavaria, Germany",47.780688,12.458509
+359,"Große Runde über Entenbühl, Havran und Schellenberg","Flossenbürg, Bavaria, Germany",49.735182,12.350682
+360,Marktschellenberg to Hallein via Mehlweg,"Marktschellenberg, Bavaria, Germany",47.697187,13.04473
+361,Hinterwössen Stoibenmöseralm and Taubensee,Gebirgskette Chiemgauer Alpen,48.079964,12.53436
+362,Via Alpina Purple Trail A : Engedey Neue Traunsteiner Hütte,Berchtesgaden National Park,22.890827,88.425677
+363,Rabenstein nach Kirchahorn,"Ahorntal, Bavaria, Germany",49.849708,11.428407
+364,From Berchtesgaden to Königssee,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+365,Pommelsbrunn Loop Lichtenstein Castle,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+366,Vom Kreuzberg nach Bad Neustadt an der Saale,Naturpark Bayerische Rhön ,50.244892,10.460734
+367,Eibsee loop and Eibsee trail,"Grainau, Bavaria, Germany",47.449497,11.007059
+368,Rund um Alfeld,"Alfeld, Bavaria, Germany",51.988188,9.826172
+369,Vom Söllereck zur Fiderepasshütte über Walser Hammerspitze,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+370,Eibachgrund,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
+371,Eußenheim zur Dicken Eiche als Rundweg ab Dorfplatz,"Eußenheim, Bavaria, Germany",50.010962,9.839647
+372,Vogelwiese Simmereinöd Steinbühler Gesenke,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+373,Loop at Röslau,Naturpark Fichtelgebirge,49.9879,11.979943
+374,Winklmoosalm zum Dürrnbachhorn,"Reit im Winkl, Bavaria, Germany",47.668951,12.482532
+375,Around the Lichtenberg,Naturpark Bayerische Rhön ,50.244892,10.460734
+376,NeuhausRundwanderweg No.,"Neuhaus an der Pegnitz, Bavaria, Germany",49.629975,11.556828
+377,Goldsteig Stage : Friedenfels to Falkenberg,Naturpark Steinwald,51.163154,14.455795
+378,Altenstadt Kellmünz (Kreis NeuUlm Tour Nr. ),"Altenstadt, Bavaria, Germany",50.287193,8.942274
+379,Sachrang and Spitzsteinhaus Loop,"Aschau im Chiemgau, Bavaria, Germany",47.767813,12.318849
+380,At the Seufzigspitze,Spessart Nature Park,44.34314,-69.65125
+381,Obere Hausbachklamm Oberreute,"Oberreute, Bavaria, Germany",47.563158,9.944027
+382,Wanderung von Rdolfshöhe nach Batzhausen,"Parsberg, Bavaria, Germany",49.160342,11.716656
+383,Neuhaus a. d. Pegnitz nach Königstein,"Königstein, Bavaria, Germany",50.179388,8.471209
+384,To Jochalm via Kesselbach Falls from Kochelsee south bank,"Kochel , Bavaria, Germany",47.653932,11.366395
+385,Krüns southwest,"Krün, Bavaria, Germany",47.50445,11.279901
+386,Kuckuckslauf Königshofen ( km),Spessart Nature Park,44.34314,-69.65125
+387,Around the Happurger See,"Happurg, Bavaria, Germany",49.493936,11.471865
+388,Seinskopf Feldernkopf Soiernspitze,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
+389,"Obertrubach ""green leaf""",Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+390,Almbachklamm and salt mine from Berchtesgaden,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+391,Obertsdorf Walrafweg Berggasthof Gaisalpe,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+392,Zum Kemptener Naturfreundehaus ab Blaichach,Naturpark Nagelfluhkette ,51.163154,14.455795
+393,Weißbach to the Reiteralm,Naturschutzgebiet Östliche Chiemgauer Alpen,51.900114,10.521569
+394,PaulPfinzingTrail,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+395,ArchäologieTour Wertachtal,"Pforzen, Bavaria, Germany",47.930028,10.613853
+396,Icking Irschenhausen,"Icking, Bavaria, Germany",47.952347,11.433075
+397,Wanderung auf den Grünstein,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
+398,Hohenstadt Rundweg : EichhörnchenMarkierung,"Pommelsbrunn, Bavaria, Germany",49.504705,11.507746
+399,Zum Allgäuer Alpen Schrecksee ab Auele,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
+400,Rund um Burghaig,"Kulmbach, Bavaria, Germany",50.104806,11.448023
+401,Rundwanderweg Monheim,"Kaisheim, Bavaria, Germany",48.769458,10.797568
+402,Therapeutic hiking trail,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+403,Schnaittach Glatzenstein Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+404,Gangolfsberg und Thüringer Hütte,Naturschutzgebiet Gangolfsberg,50.465178,10.084687
+405,Eckbauer Hintergraseck Vordergraseck Partnachklamm,"Garmisch Partenkirchen, Bavaria, Germany",47.492674,11.104571
+406,Zur Wolfskapelle über Böbrach,"Böbrach, Bavaria, Germany",49.055397,13.037048
+407,Alfeld – Claramühle,"Alfeld, Bavaria, Germany",51.988188,9.826172
+408,HammermühleLibaHohenberg,"Hohenberg an der Eger, Bavaria, Germany",50.094836,12.220572
+409,Isar Loop near Krün,Naturschutzgebiet Karwendel und Karwendelvorgebirge,47.556734,11.588229
+410,Markgräflicher Klosterweg ab Bayreuth,"Bayreuth, Bavaria, Germany",49.945412,11.584207
+411,Pleinfeld,"Pleinfeld, Bavaria, Germany",49.104447,10.978487
+412,Rundwanderweg Kipfenberg,"Walting, Bavaria, Germany",27.4541,85.72937
+413,Goldsteig Alternative Nr.: RuselabsatzSchauflingDatting,Bavarian Forest Nature Park,40.755325,-89.57569
+414,To the Kneifelspitze from Hintergern,"Maria Gern, Bavaria, Germany",47.653411,13.003048
+415,Panoramaweg Höhenrainweg ab Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
+416,Von Mariaort über Etterzhausen,"Pettendorf, Bavaria, Germany",49.059231,12.008348
+417,Von Schnaitsee zum Weitsee und Berger See,"Schnaitsee, Bavaria, Germany",48.070316,12.367616
+418,Heilige Länder Tour,Haßberge Nature Park,44.34314,-69.65125
+419,City triangle circular route,"Burglengenfeld, Bavaria, Germany",49.201487,12.039464
+420,Schönau am Königssee nach St. Bartolomä,Berchtesgaden National Park,22.890827,88.425677
+421,Spitzingscheibe,"Bayrischzell, Bavaria, Germany",47.662011,11.985455
+422,Circular hiking trail no.: All around Breitenbrunn,Naturpark Altmühltal,51.163154,14.455795
+423,Kellertour: Greuth Weppersdorf Willersdorf Stibarlimbach,"Höchstadt an der Aisch, Bavaria, Germany",49.708803,10.812098
+424,Panoramasteig Patersdorf: Wanderweg,Bavarian Forest Nature Park,40.755325,-89.57569
+425,Tegernseer Bräustüberl from RottachEgern,"Rottach Egern, Bavaria, Germany",47.686685,11.767553
+426,HupprechtsWachters Alpe,"Waltenhofen, Bavaria, Germany",47.669151,10.307281
+427,Rund um die Talsperre Frauenau,Bavarian Forest National Park,29.297308,110.43844
+428,Dachau nach Oberbachern Rundwanderung,"Dachau, Bavaria, Germany",48.260456,11.439408
+429,Wolfsteinweg Höhenberg nach Schafhof,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
+430,Rund um Stangenroth und Steinberg,Naturpark Bayerische Rhön ,50.244892,10.460734
+431,Langenleiten Kissinger Hut,Naturpark Bayerische Rhön ,50.244892,10.460734
+432,Reichertshausen Hohenkammer Rundweg,"Reichertshausen, Bavaria, Germany",48.464314,11.50257
+433,Steinach an der Saale Rundweg,Naturpark Bayerische Rhön ,50.244892,10.460734
+434,Von Naila durchs Höllental,Naturpark Frankenwald,51.163154,14.455795
+435,Kaitersberg Panoramaweg,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+436,Riffelriss and Hochthörlehütte from Eibsee,"Grainau, Bavaria, Germany",47.449497,11.007059
+437,Oberasbacher Rundweg (Nr. ),"Oberasbach, Bavaria, Germany",49.417441,10.979644
+438,Vom Kloster Banz zum Main,"Bad Staffelstein, Bavaria, Germany",50.098313,11.031627
+439,Solar Patersholz Eibach,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
+440,Weilbach Loop : Gotthardsbergweg,Naturpark Bayerischer Odenwald,49.516688,9.200806
+441,Geoweg Urdonautal,"Wellheim, Bavaria, Germany",53.90639,22.27273
+442,Von Labersricht nach Ottosau,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
+443,"Unterschleißheim, Berglwald und Schlosspark Oberschleißheim","Unterschleißheim, Bavaria, Germany",48.281797,11.576474
+444,Hiking in the ZugspitzLand Farchant Waldsaumweg,"Farchant, Bavaria, Germany",47.529453,11.111773
+445,From Stephanskirchen around the Hartsee,Naturschutzgebiet EggstättHemhofer Seenplatte,53.438594,13.189055
+446,Rund um Regelsbach,"Rohr, Bavaria, Germany",50.13824,12.39179
+447,Von Meilenhofen dem Haunsbach entlang,"Mainburg, Bavaria, Germany",48.641534,11.782432
+448,Abenberg Nr.,"Georgensgmünd, Bavaria, Germany",49.186168,11.012539
+449,Recreation area Obere Wagensass,"Sulzbach Rosenberg, Bavaria, Germany",49.498075,11.749034
+450,Schloss Hirschling Wichtelfels Stockenfels Binkenhof,Naturwaldreservar Teufelsgsperr,49.203235,12.144608
+451,Rothsee nach Eckersmühlen,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
+452,Hiking in the ZugspitzLand Röhrlebach Ursprünge Farchant,"Oberau, Bavaria, Germany",48.08333,13.76667
+453,Goldsteig Alternative Nr.: ThurmansbangSaldenburg,Bavarian Forest Nature Park,40.755325,-89.57569
+454,Baldenschwanger Panoramarunde,Naturpark Nagelfluhkette ,51.163154,14.455795
+455,Hintersee zum Kammerlinghorn,Berchtesgaden National Park,22.890827,88.425677
+456,HündleErlebniswanderweg,Naturpark Nagelfluhkette ,51.163154,14.455795
+457,Arnsberg Böhming Gungolding,Naturpark Altmühltal,51.163154,14.455795
+458,Gothendorf Biederbach,"Arberg, Bavaria, Germany",58.48333,12.18333
+459,Von Tiefenbach entlang dem Breitach,"Oberstdorf, Bavaria, Germany",47.409108,10.280006
+460,Zur Hochplatte ab Oberau,"Schleching, Bavaria, Germany",47.720891,12.394045
+461,Hochrhöner Stage : Stralsbach Oberweißbrunn,Naturpark Bayerische Rhön ,50.244892,10.460734
+462,Wildensteiner Steig,"Dietfurt an der Altmühl, Bavaria, Germany",49.035433,11.585257
+463,Loop Igelsbachsee,"Spalt, Bavaria, Germany",49.176995,10.923938
+464,Rundwanderweg Pflaumheim : WartturmWeg,"Großostheim, Bavaria, Germany",49.891904,9.029151
+465,Around Hallenknopf and Mandelberg,Spessart Nature Park,44.34314,-69.65125
+466,Kastler castle tour,Naturpark Steinwald,51.163154,14.455795
+467,Absberg,"Absberg, Bavaria, Germany",48.41667,15.96667
+468,Jubilee Trail Gundelsheim,"Gundelsheim, Bavaria, Germany",49.282745,9.161759
+469,WEZ Schernfeld Rundweg,Naturschutzgebiet Vogelinsel im Altmühlsee,49.146482,10.706703
+470,To the Staffelberg,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+471,Von Seebruck nach Chieming,"Seeon Seebruck, Bavaria, Germany",47.976803,12.460072
+472,Almbachklamm über Maria Gern ab Berchtesgaden,"Berchtesgaden, Bavaria, Germany",47.640891,13.026079
+473,Marienthal nach Hirschling,"Nittenau, Bavaria, Germany",49.194583,12.270583
+474,Wagenthalhütte ab Grenzhammer,Naturpark Fichtelgebirge,49.9879,11.979943
+475,Auf den Jenner über die Wasserfallalm,Berchtesgaden National Park,22.890827,88.425677
+476,Über Eulenberg und Ramspau,"Regenstauf, Bavaria, Germany",49.118136,12.131489
+477,Aus Baunach um Zentberg und Semberg,Naturpark Haßberge,51.163154,14.455795
+478,Rundwanderweg Klingenberg : Fuchs,"Klingenberg am Main, Bavaria, Germany",49.775722,9.180212
+479,SalzAlpenWeg: TraunsteinZwing,"Inzell, Bavaria, Germany",47.763469,12.747394
+480,Konnersreuth,Naturpark Fichtelgebirge,49.9879,11.979943
+481,Weichweg Pommersfelden,"Pommersfelden, Bavaria, Germany",49.764617,10.821836
+482,Ochsenkopfweg,"Bischofsgrün, Bavaria, Germany",50.050927,11.796765
+483,Schützensteig on Kleiner Jenner,Berchtesgaden National Park,22.890827,88.425677
+484,Brannenburg Kiesgruben,"Brannenburg, Bavaria, Germany",47.736114,12.103684
+485,Röthenbach Richtung Waldfriedhof,"Altdorf bei Nürnberg, Bavaria, Germany",49.385648,11.356734
+486,Wanderung zur Kammerlingalm,Berchtesgaden National Park,22.890827,88.425677
+487,Königstein Fichtenhof Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+488,Raiten: Buchberg Rundweg,"Unterwössen, Bavaria, Germany",47.7348,12.457171
+489,Reichertshausen Paunzhausen,"Reichertshausen, Bavaria, Germany",48.464314,11.50257
+490,Druidenrunde von Muggendorf zum Druidenhain und Frauenstein,"Wiesenttal, Bavaria, Germany",49.801809,11.262179
+491,Albsteig Etappe : Mönchsdeggingen Bopfingen,"Mönchsdeggingen, Bavaria, Germany",48.775744,10.581331
+492,Column IVV : Wernfels Castle,"Spalt, Bavaria, Germany",49.176995,10.923938
+493,Großheubach Die Pforte zum Himmel,Naturpark Bayerischer Odenwald,49.516688,9.200806
+494,Beekeeping circuit no.,"Feuchter Forst, Bavaria, Germany",49.374181,11.24061
+495,Eckhartsreuth Untermainsbach Jugenberg,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+496,Von Hirschbichl nach Lohfeyer,"Ramsau bei Berchtesgaden, Bavaria, Germany",47.606861,12.901314
+497,Über die Ellegg Höhe zum Horn OyMittelberg,"Oy Mittelberg, Bavaria, Germany",47.644868,10.455435
+498,Rotwand Überschreitung,Landschaftsschutzgebiet Rotwand,51.241084,13.874338
+499,Ammergauer GipfelTour,"Ettaler Forst, Bavaria, Germany",47.549943,10.926911
+500,Walderlebnispfad und Zauberwald bei Schönberg,"Schönberg, Bavaria, Germany",54.391848,10.374354
+501,Steinmühle über Loibling und Waffenhof,"Roding, Bavaria, Germany",49.194191,12.520733
+502,Zubringer zum Fernwanderweg Europäischer Wasserscheideweg bei Theuerbronn,Frankenhöhe Nature Park,44.34314,-69.65125
+503,Lohhof nach Ottershausen,"Unterschleißheim, Bavaria, Germany",48.281797,11.576474
+504,Solar Jahrsdorf Eibach,"Hilpoltstein, Bavaria, Germany",49.189228,11.187592
+505,Kirchröttenbach Epperlesberg Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+506,Schwarzer Fuchs Rundwanderung ab Hemsbach,Spessart Nature Park,44.34314,-69.65125
+507,Panoramawanderweg Taubertal (Fernwanderweg),"Rothenburg ob der Tauber, Bavaria, Germany",49.377025,10.188145
+508,Egloffsteiner Kulturweg Nr.,"Egloffstein, Bavaria, Germany",49.701784,11.258569
+509,Sebaldweg,"Bad Hindelang, Bavaria, Germany",47.506131,10.371389
+510,Steinbergrundweg,"Neumarkt in der Oberpfalz, Bavaria, Germany",49.281837,11.464881
+511,Zeil am Main Hohe Wann DreiLänderStein,"Zeil am Main, Bavaria, Germany",50.013234,10.58923
+512,Von Regenhütte zum Kleinen und Großen Falkenstein,Bavarian Forest National Park,29.297308,110.43844
+513,Von Pfronten zur Burg Falkenstein und der Schlossangeralm,"Pfronten, Bavaria, Germany",47.581385,10.557744
+514,Rundwanderweg Heidenheim,Naturpark Altmühltal,51.163154,14.455795
+515,Kulturweg Aschaffenburg : Schweinheimer Passion,Spessart Nature Park,44.34314,-69.65125
+516,Ammerthaler Runde,"Ammerthal, Bavaria, Germany",49.441494,11.759292
+517,Faulbach nach Breitenbrunn,"Faulbach, Bavaria, Germany",49.45581,6.25834
+518,Kärlingerhaus zum CarlvonStahlHaus,Berchtesgaden National Park,22.890827,88.425677
+519,Wanderweg Fürth – Roßtal,"Fürth, Bavaria, Germany",49.480351,10.981111
+520,Böbrach Wanderroute,"Böbrach, Bavaria, Germany",49.055397,13.037048
+521,Rund um Kohlau,"Rinchnach, Bavaria, Germany",48.950511,13.199237
+522,Wanderweg Nr. Eußenheim Über Schönarts,"Eußenheim, Bavaria, Germany",50.010962,9.839647
+523,Wanderung über den Hochgrat,Naturpark Nagelfluhkette ,51.163154,14.455795
+524,Roter Schrägstrich Aschaffenburg Hohe Wart,"Aschaffenburg, Bavaria, Germany",49.976929,9.147466
+525,WannbachHetzelsdorf Loop,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+526,Kürn Wolferszwinger Weiher,"Bernhardswald, Bavaria, Germany",49.091099,12.248888
+527,Rund um den Massenberg,"Spalt, Bavaria, Germany",49.176995,10.923938
+528,Von Rohrbach nach Wall,"Rohrbach, Bavaria, Germany",48.609667,11.568538
+529,Stadelmühle nach Hotel Gut Wildbad durch Schwänringholz,"Huisheim, Bavaria, Germany",48.824956,10.704888
+530,Loop at Wülfersreuth,Naturpark Fichtelgebirge,49.9879,11.979943
+531,Wandern in PostbauerHeng: Keltenrunde,"Postbauer Heng, Bavaria, Germany",49.302167,11.358727
+532,Monheimer Alb,"Huisheim, Bavaria, Germany",48.824956,10.704888
+533,Medium Geisberg tour,Naturpark Fränkische Schweiz  Veldensteiner Forst,49.9879,11.979943
+534,Auf dem Immenstädter Horn,Naturpark Nagelfluhkette ,51.163154,14.455795
+535,Von Dürnhart nach Mühlhausen,"Biburg, Bavaria, Germany",48.19064,13.12111
+536,Von Bürgstadt nach Freudenbach und Großheubach,"Bürgstadt, Bavaria, Germany",50.918375,12.807197
+537,Loop at Rehau,Naturpark Altmühltal,51.163154,14.455795
+538,Mühlbacher KarlStraub Weg,"Bad Neustadt an der Saale, Bavaria, Germany",50.32878,10.212283
+539,Von “Hölzernen Männern” zur verschwundenen Burg,Naturpark Haßberge,51.163154,14.455795
+540,Schweinfurter Wanderlust: VerwunschenVerwunschen,"Grafenrheinfeld, Bavaria, Germany",49.99775,10.208766
+541,Durch die Seenlandschaft an der Donau,"Elchingen, Bavaria, Germany",48.447817,10.088049
+542,NeuhausRundwanderweg No.,"Neuhaus an der Pegnitz, Bavaria, Germany",49.629975,11.556828
+543,WolfachRadweg,"Vilshofen an der Donau, Bavaria, Germany",48.630404,13.189717
+544,Around the Kösseine,Naturpark Fichtelgebirge,49.9879,11.979943
+545,Heilige Landschaft Pfaffenwinkel: Sprudelnde Quellen,"Peißenberg, Bavaria, Germany",47.788705,11.063092
+546,Naturraum HofauInnleiten,"Stephanskirchen, Bavaria, Germany",47.856721,12.149357
+547,Wandertrilogie Etappe OberstaufenOberreute,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
+548,Village tour Hausen St. Gangolf,Naturpark Bayerische Rhön ,50.244892,10.460734
+549,Zum Waldspielplatz und zum Grünten,"Wertach, Bavaria, Germany",47.602738,10.41074
+550,Wanderung zur Salmaser Höhe ab Wiedemannsdorf,Naturpark Nagelfluhkette ,51.163154,14.455795
+551,Schlackenmühle nach Schlockenau über Hühnersmühle,"Presseck, Bavaria, Germany",50.228057,11.554032
+552,Jurasteig: HirschwaldSchlaufe,"Rieden, Bavaria, Germany",47.44211,10.6644
+553,Hog hiking trail Reckendorf,Haßberge Nature Park,44.34314,-69.65125
+554,Plankenfels nach Neuwelt,"Plankenfels, Bavaria, Germany",49.88333,11.33333
+555,Hikers Regenstauf: Spechtweg,"Regenstauf, Bavaria, Germany",49.118136,12.131489
+556,Zubringer Urdonautalsteig: Bahnhof Burgheim,"Rennertshofen, Bavaria, Germany",48.758399,11.046865
+557,Von Geisenfeld nach Rohrbach der Ilm entlang,"Geisenfeld, Bavaria, Germany",48.681925,11.613398
+558,Karwendeltour: KrinnerKoflerHütterKarwendelhaus,Karwendel Nature Park,44.34314,-69.65125
+559,Vom Braunweiher zum Seerosenweiher,"Manching, Bavaria, Germany",48.716597,11.480169
+560,Vom Königssee zum Hintersee,"Schönau am Königsee, Bavaria, Germany",47.6023,12.98699
+561,Engelbergtrails,Naturpark Bayerischer Odenwald,49.516688,9.200806
+562,Von der Alpe Hohenschwand zum Imberg und zurück,"Oberstaufen, Bavaria, Germany",47.556012,10.019312
+563,Sindersbachsee and Lower Basin,Spessart Nature Park,44.34314,-69.65125
+564,Circular hiking trails Baunach: Deer trail,"Baunach, Bavaria, Germany",49.985082,10.848715
+565,Spurensuche am Eginger See,"Eging am See, Bavaria, Germany",48.715312,13.272627
+566,Von Dürnhart nach Abensberg,"Biburg, Bavaria, Germany",48.19064,13.12111
+567,Kleiner Knetzberg,"Knetzgau, Bavaria, Germany",49.994099,10.546137
+568,Über den Hündle,Naturpark Nagelfluhkette ,51.163154,14.455795
+569,Von Oberschleißheim zur Birkhahnstraße,"Oberschleißheim, Bavaria, Germany",48.244423,11.560369
+570,Drahtzieherweg westliche Schleife,"Allersberg, Bavaria, Germany",49.252952,11.242042
+571,Sagensteig,Naturpark Oberer Bayerischer Wald,48.780925,13.80375
+572,Fränkischer Rotwein Wanderweg (Fernwanderweg),Spessart Nature Park,44.34314,-69.65125
