@@ -66,15 +66,15 @@
    "id": 10,
    "trail": "Wimbachklamm",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 12.9177
  },
  {
    "id": 11,
    "trail": "Lusen Rundweg",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 12,
@@ -101,8 +101,8 @@
    "id": 15,
    "trail": "HöllbachgsprengFalkensteinRunde",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 16,
@@ -164,8 +164,8 @@
    "id": 24,
    "trail": "Die Watzmanntour: Vom Königssee zum Watzmannhaus",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 13.9177
  },
  {
    "id": 25,
@@ -241,8 +241,8 @@
    "id": 35,
    "trail": "Lusen Rundweg ab Waldhäuser",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 36,
@@ -514,8 +514,8 @@
    "id": 74,
    "trail": "Unfindener Waldrunde über Königsberg in Bayern",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 75,
@@ -549,15 +549,15 @@
    "id": 79,
    "trail": "Brandorfer Forest Loop",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 80,
    "trail": "Schärtenspitze Via Ferrata",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 14.9177
  },
  {
    "id": 81,
@@ -626,8 +626,8 @@
    "id": 90,
    "trail": "HinterseeZauberwaldRamsau",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 15.9177
  },
  {
    "id": 91,
@@ -654,8 +654,8 @@
    "id": 94,
    "trail": "Goldsteig Northern Route Stage : Eck to Großer Arber",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 95,
@@ -927,15 +927,15 @@
    "id": 133,
    "trail": "Königsbachalm über die Wasserfallalm",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 16.9177
  },
  {
    "id": 134,
    "trail": "Goldsteig Zuweg Nr. : BodenmaisKleiner Arber",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 135,
@@ -1081,8 +1081,8 @@
    "id": 155,
    "trail": "Johannesberg Hahnenkamm",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 156,
@@ -1116,8 +1116,8 @@
    "id": 160,
    "trail": "Mangfalltal und Valley Klosterstüberl Wanderung",
    "city": "Valley, Bavaria, Germany",
-   "latitude": 32.818377,
-   "longitude": -85.188208
+   "latitude": 47.893,
+   "longitude": 11.7794
  },
  {
    "id": 161,
@@ -1172,8 +1172,8 @@
    "id": 168,
    "trail": "Goldsteig Northern Route Stage : Lusen to Mauth",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 169,
@@ -1207,8 +1207,8 @@
    "id": 173,
    "trail": "Goldsteig Northern Route Stage : Großer Arber to Bayerisch Eisenstein",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 174,
@@ -1249,8 +1249,8 @@
    "id": 179,
    "trail": "Gipfelwanderung Hoher Göll ab Ofnerboden",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 17.9177
  },
  {
    "id": 180,
@@ -1284,8 +1284,8 @@
    "id": 184,
    "trail": "Unteremmendorf durch den Wald",
    "city": "Kinding, Bavaria, Germany",
-   "latitude": 4.91667,
-   "longitude": 10.73333
+   "latitude": 48.9979,
+   "longitude": 11.377
  },
  {
    "id": 185,
@@ -1298,8 +1298,8 @@
    "id": 186,
    "trail": "Oberer Horizontalsteig zwischen Lusen und Rachel",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 187,
@@ -1347,8 +1347,8 @@
    "id": 193,
    "trail": "Goldsteig: From Grandsberg to Hirschenstein",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 194,
@@ -1361,8 +1361,8 @@
    "id": 195,
    "trail": "Friesenhausen Schwedenschanze",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 196,
@@ -1473,15 +1473,15 @@
    "id": 211,
    "trail": "Jenner Mountain Station to Hohes Brett",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 18.9177
  },
  {
    "id": 212,
    "trail": "Goldsteig Northern Route Stage : Philippsreut to Haidmühle",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 213,
@@ -1501,8 +1501,8 @@
    "id": 215,
    "trail": "Königstalalm Loop",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 19.9177
  },
  {
    "id": 216,
@@ -1557,8 +1557,8 @@
    "id": 223,
    "trail": "S Schlüsselfeld",
    "city": "Steigerwald Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 49.6148,
+   "longitude": 10.2868
  },
  {
    "id": 224,
@@ -1606,8 +1606,8 @@
    "id": 230,
    "trail": "Goldsteig Northern Route Stage : Bayerisch Eisenstein to Großer Falkenstein",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 231,
@@ -1627,8 +1627,8 @@
    "id": 233,
    "trail": "Goldsteig Southern Route Stage : Schrottenbaummühle to Fischhaus",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 234,
@@ -1935,8 +1935,8 @@
    "id": 277,
    "trail": "Im Ferdinandsthal",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 278,
@@ -2033,8 +2033,8 @@
    "id": 291,
    "trail": "Loop at Burgsinn",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 292,
@@ -2117,8 +2117,8 @@
    "id": 303,
    "trail": "From Spiegelau to Rachelsee",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 304,
@@ -2173,8 +2173,8 @@
    "id": 311,
    "trail": "Wandern durch Großer Filz und Klosterfilz",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 312,
@@ -2236,8 +2236,8 @@
    "id": 320,
    "trail": "Wenighösbach Unterafferbach",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 321,
@@ -2250,8 +2250,8 @@
    "id": 322,
    "trail": "From Altershausen around the Rossberg",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 323,
@@ -2334,8 +2334,8 @@
    "id": 334,
    "trail": "Hosler Jugendwanderweg",
    "city": "Steigerwald Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 49.6148,
+   "longitude": 10.2868
  },
  {
    "id": 335,
@@ -2376,8 +2376,8 @@
    "id": 340,
    "trail": "Hirschenstein Berglauf: Jugendlauf",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 341,
@@ -2474,8 +2474,8 @@
    "id": 354,
    "trail": "Goldsteig Southern Route Stage : Wiesenfelden to Haunkenzell",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 355,
@@ -2530,8 +2530,8 @@
    "id": 362,
    "trail": "Via Alpina Purple Trail A : Engedey Neue Traunsteiner Hütte",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 20.9177
  },
  {
    "id": 363,
@@ -2656,8 +2656,8 @@
    "id": 380,
    "trail": "At the Seufzigspitze",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 381,
@@ -2698,8 +2698,8 @@
    "id": 386,
    "trail": "Kuckuckslauf Königshofen ( km)",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 387,
@@ -2880,15 +2880,15 @@
    "id": 412,
    "trail": "Rundwanderweg Kipfenberg",
    "city": "Walting, Bavaria, Germany",
-   "latitude": 27.4541,
-   "longitude": 85.72937
+   "latitude": 48.912574,
+   "longitude": 11.298616
  },
  {
    "id": 413,
    "trail": "Goldsteig Alternative Nr.: RuselabsatzSchauflingDatting",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 414,
@@ -2922,8 +2922,8 @@
    "id": 418,
    "trail": "Heilige Länder Tour",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 419,
@@ -2936,8 +2936,8 @@
    "id": 420,
    "trail": "Schönau am Königssee nach St. Bartolomä",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 21.9177
  },
  {
    "id": 421,
@@ -2964,8 +2964,8 @@
    "id": 424,
    "trail": "Panoramasteig Patersdorf: Wanderweg",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 425,
@@ -2985,8 +2985,8 @@
    "id": 427,
    "trail": "Rund um die Talsperre Frauenau",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 428,
@@ -3167,8 +3167,8 @@
    "id": 453,
    "trail": "Goldsteig Alternative Nr.: ThurmansbangSaldenburg",
    "city": "Bavarian Forest Nature Park",
-   "latitude": 40.755325,
-   "longitude": -89.57569
+   "latitude": 48.9993,
+   "longitude": 13.2165
  },
  {
    "id": 454,
@@ -3181,8 +3181,8 @@
    "id": 455,
    "trail": "Hintersee zum Kammerlinghorn",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 22.9177
  },
  {
    "id": 456,
@@ -3251,8 +3251,8 @@
    "id": 465,
    "trail": "Around Hallenknopf and Mandelberg",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 466,
@@ -3321,8 +3321,8 @@
    "id": 475,
    "trail": "Auf den Jenner über die Wasserfallalm",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 23.9177
  },
  {
    "id": 476,
@@ -3377,8 +3377,8 @@
    "id": 483,
    "trail": "Schützensteig on Kleiner Jenner",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 24.9177
  },
  {
    "id": 484,
@@ -3398,8 +3398,8 @@
    "id": 486,
    "trail": "Wanderung zur Kammerlingalm",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 25.9177
  },
  {
    "id": 487,
@@ -3510,8 +3510,8 @@
    "id": 502,
    "trail": "Zubringer zum Fernwanderweg Europäischer Wasserscheideweg bei Theuerbronn",
    "city": "Frankenhöhe Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 49.2257,
+   "longitude": 10.2442
  },
  {
    "id": 503,
@@ -3538,8 +3538,8 @@
    "id": 506,
    "trail": "Schwarzer Fuchs Rundwanderung ab Hemsbach",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 507,
@@ -3580,8 +3580,8 @@
    "id": 512,
    "trail": "Von Regenhütte zum Kleinen und Großen Falkenstein",
    "city": "Bavarian Forest National Park",
-   "latitude": 29.297308,
-   "longitude": 110.43844
+   "latitude": 48.9597,
+   "longitude": 13.3949
  },
  {
    "id": 513,
@@ -3601,8 +3601,8 @@
    "id": 515,
    "trail": "Kulturweg Aschaffenburg : Schweinheimer Passion",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
    "id": 516,
@@ -3622,8 +3622,8 @@
    "id": 518,
    "trail": "Kärlingerhaus zum CarlvonStahlHaus",
    "city": "Berchtesgaden National Park",
-   "latitude": 22.890827,
-   "longitude": 88.425677
+   "latitude": 47.5529,
+   "longitude": 26.9177
  },
  {
    "id": 519,
@@ -3867,8 +3867,8 @@
    "id": 553,
    "trail": "Hog hiking trail Reckendorf",
    "city": "Haßberge Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.13,
+   "longitude": 10.6598
  },
  {
    "id": 554,
@@ -3900,107 +3900,100 @@
  },
  {
    "id": 558,
-   "trail": "Karwendeltour: KrinnerKoflerHütterKarwendelhaus",
-   "city": "Karwendel Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
- },
- {
-   "id": 559,
    "trail": "Vom Braunweiher zum Seerosenweiher",
    "city": "Manching, Bavaria, Germany",
    "latitude": 48.716597,
    "longitude": 11.480169
  },
  {
-   "id": 560,
+   "id": 559,
    "trail": "Vom Königssee zum Hintersee",
    "city": "Schönau am Königsee, Bavaria, Germany",
    "latitude": 47.6023,
    "longitude": 12.98699
  },
  {
-   "id": 561,
+   "id": 560,
    "trail": "Engelbergtrails",
    "city": "Naturpark Bayerischer Odenwald",
    "latitude": 49.516688,
    "longitude": 9.200806
  },
  {
-   "id": 562,
+   "id": 561,
    "trail": "Von der Alpe Hohenschwand zum Imberg und zurück",
    "city": "Oberstaufen, Bavaria, Germany",
    "latitude": 47.556012,
    "longitude": 10.019312
  },
  {
-   "id": 563,
+   "id": 562,
    "trail": "Sindersbachsee and Lower Basin",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  },
  {
-   "id": 564,
+   "id": 563,
    "trail": "Circular hiking trails Baunach: Deer trail",
    "city": "Baunach, Bavaria, Germany",
    "latitude": 49.985082,
    "longitude": 10.848715
  },
  {
-   "id": 565,
+   "id": 564,
    "trail": "Spurensuche am Eginger See",
    "city": "Eging am See, Bavaria, Germany",
    "latitude": 48.715312,
    "longitude": 13.272627
  },
  {
-   "id": 566,
+   "id": 565,
    "trail": "Von Dürnhart nach Abensberg",
    "city": "Biburg, Bavaria, Germany",
    "latitude": 48.19064,
    "longitude": 13.12111
  },
  {
-   "id": 567,
+   "id": 566,
    "trail": "Kleiner Knetzberg",
    "city": "Knetzgau, Bavaria, Germany",
    "latitude": 49.994099,
    "longitude": 10.546137
  },
  {
-   "id": 568,
+   "id": 567,
    "trail": "Über den Hündle",
    "city": "Naturpark Nagelfluhkette ",
    "latitude": 51.163154,
    "longitude": 14.455795
  },
  {
-   "id": 569,
+   "id": 568,
    "trail": "Von Oberschleißheim zur Birkhahnstraße",
    "city": "Oberschleißheim, Bavaria, Germany",
    "latitude": 48.244423,
    "longitude": 11.560369
  },
  {
-   "id": 570,
+   "id": 569,
    "trail": "Drahtzieherweg westliche Schleife",
    "city": "Allersberg, Bavaria, Germany",
    "latitude": 49.252952,
    "longitude": 11.242042
  },
  {
-   "id": 571,
+   "id": 570,
    "trail": "Sagensteig",
    "city": "Naturpark Oberer Bayerischer Wald",
    "latitude": 48.780925,
    "longitude": 13.80375
  },
  {
-   "id": 572,
+   "id": 571,
    "trail": "Fränkischer Rotwein Wanderweg (Fernwanderweg)",
    "city": "Spessart Nature Park",
-   "latitude": 44.34314,
-   "longitude": -69.65125
+   "latitude": 50.059,
+   "longitude": 9.6881
  }
 ]
